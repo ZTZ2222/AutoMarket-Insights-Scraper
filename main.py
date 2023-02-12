@@ -175,7 +175,7 @@ async def sort_dfs():
 
 
 async def new_loads_notification():
-    await sort_dfs()
+    # await sort_dfs()
     while True:
         df = await convert_data()
         df_notif_to_send = await check_notif(df)
