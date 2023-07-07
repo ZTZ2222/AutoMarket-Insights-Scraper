@@ -19,7 +19,7 @@ async def get_page_data(session, page):
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
     }
 
-    url = f'https://www.mashina.kg/search/all/all/?currency=2&price_from=4000&price_to=15000&region=1&sort_by=upped_at%20desc&time_created=1&town=2&year_from=2005&page={page}'
+    url = f'https://www.mashina.kg/search/all/all/?currency=2&price_from=3000&price_to=20000&region=1&sort_by=upped_at%20desc&time_created=1&town=2&year_from=2003&page={page}'
 
     async with session.get(url=url, headers=headers) as response:
         response_text = await response.text()
@@ -34,8 +34,6 @@ async def get_page_data(session, page):
                 'div', class_='block title').find('h2').text.strip()
             price_usd = car_data.find('div', class_='block price').find(
                 'p').find('strong').text.strip()
-            price_som = car_data.find('div', class_='block price').find(
-                'p').contents[3].strip()
             year = car_data.find('div', class_='item-info-wrapper').find('p',
                                                                          class_='year-miles').find('span').text.strip()
             engine_cap = car_data.find('div', class_='item-info-wrapper').find(
@@ -73,7 +71,8 @@ async def get_page_data(session, page):
                     'wheel_pos': wheel_pos,
                     'mileage': mileage,
                     'city': city,
-                    'car_link': car_link
+                    'car_link': car_link,
+                    'date': datetime.now().strftime('%m_%d_%Y')
                 }
             )
 
@@ -81,7 +80,7 @@ async def get_page_data(session, page):
 async def gather_data():
     global cars_data
     cars_data = []
-    url = 'https://www.mashina.kg/search/all/all/?currency=2&price_from=4000&price_to=15000&region=1&sort_by=upped_at%20desc&time_created=1&town=2&year_from=2005'
+    url = 'https://www.mashina.kg/search/all/all/?currency=2&price_from=3000&price_to=20000&region=1&sort_by=upped_at%20desc&time_created=1&town=2&year_from=2005'
 
     headers = {
         'accept': '*/*',
@@ -108,8 +107,8 @@ async def convert_data():
     await gather_data()
     cur_time = datetime.now().strftime('%d_%m_%Y_%H_%M')
 
-    with open(f"json_data/mashina_kg/{cur_time}.json", "w") as file:
-        json.dump(cars_data, file, indent=4, ensure_ascii=False)
+    # with open(f"json_data/mashina_kg/{cur_time}.json", "w") as file:
+    #     json.dump(cars_data, file, indent=4, ensure_ascii=False)
 
     df = pd.DataFrame.from_dict(cars_data)
     df.to_csv(f'csv_data/mashina_kg/{cur_time}.csv', index=False)
@@ -133,8 +132,6 @@ async def check_notif(df):
         'вариатор', 1.5).replace('электро', 1.5)
     df.price_usd = df.price_usd.str.slice(
         1).str.strip().replace(' ', '', regex=True).astype(int)
-    df.price_som = df.price_som.replace(
-        ' сом', '', regex=True).replace(' ', '', regex=True).astype(int)
     df.engine_cap = df.engine_cap.astype(float)
     df = df[df["transmission"] != 'механика']
     df_new = df.merge(df_mean, how='left', on=['make_model', 'year'])
@@ -173,8 +170,6 @@ async def concat_hdata():
         'автомат', 2).replace('вариатор', 1.5)
     df.price_usd = df.price_usd.str.slice(
         1).str.strip().replace(' ', '', regex=True).astype(int)
-    df.price_som = df.price_som.replace(
-        ' сом', '', regex=True).replace(' ', '', regex=True).astype(int)
     df.engine_cap = df.engine_cap.astype(float)
     last_sorted = pd.read_csv('csv_data/sorted_dfs/df_sorted_upd.csv')
     df_c = pd.concat([df, last_sorted], ignore_index=True)
@@ -208,7 +203,7 @@ async def concat_hdata():
 
 
 async def new_loads_notification():
-    if len(os.listdir('csv_data/mashina_kg')) > 80:
+    if len(os.listdir('csv_data/mashina_kg')) > 30:
         await concat_hdata()
     while True:
         df = await convert_data()
