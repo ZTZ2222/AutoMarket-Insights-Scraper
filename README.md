@@ -1,6 +1,6 @@
 # Car Ads Scraper
 
-![fastapi-scikitlearn-pandas](/static/tech-stack2.jpg)
+![fastapi-scikitlearn-pandas](/static/banner.jpg)
 
 <a name="readme-top"></a>
 
