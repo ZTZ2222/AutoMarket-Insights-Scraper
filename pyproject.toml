@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "car-price-sraper"
+version = "0.1.0"
+description = ""
+authors = ["ZTZ <tzamirov@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiogram = "2.24"
+aiohttp = "3.8.3"
+pandas = "1.5.3"
+scikit-learn = "1.2.1"
+bs4 = "0.0.1"
+lxml = "4.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
