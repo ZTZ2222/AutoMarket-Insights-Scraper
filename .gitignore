@@ -2,5 +2,5 @@ __pycache__
 .venv
 csv_data
 json_data
-config.py
 *.ipynb
+.env

@@ -71,7 +71,7 @@ cd car_ads_scraper
 3. Create a .env file in the project root directory and add the necessary environment variables. Here's an example:
 
 ```plaintext
-POSTGRES_DB=asos_db
+POSTGRES_DB=car_db
 POSTGRES_USER=myuser
 POSTGRES_PASSWORD=mypassword
 BOT_TOKEN="BOT_TOKEN"
