@@ -1,4 +1,4 @@
-# Car Ads Scraper
+# AutoMarket Insights
 
 ![fastapi-scikitlearn-pandas](/static/banner2.jpg)
 
@@ -26,7 +26,7 @@
 
 ## About The Project
 
-Car Ads Scraper is a project designed to scrape data from multiple car advertisements boards, focusing on a wide range of vehicles. The bot collects data from various sources and stores it in a PostgreSQL database. It offers endpoints to access the scraped data based on different parameters such as make, model, year, and price.
+AutoMarket Insights is a project designed to scrape data from multiple car advertisements boards, focusing on a wide range of vehicles. The bot collects data from various sources and stores it in a PostgreSQL database. It offers endpoints to access the scraped data based on different parameters such as make, model, year, and price.
 
 ### Built With
 
