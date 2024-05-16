@@ -1,6 +1,6 @@
 __pycache__
 venv
-csv_data
+csv_data/cars_kg
 json_data
 *.ipynb
 .env

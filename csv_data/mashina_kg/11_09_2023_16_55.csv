@@ -1,0 +1,501 @@
+make_model,year,price_usd,transmission,color,body_type,engine_cap,engine_type,wheel_pos,mileage,city,car_link,date
+Hyundai Sonata,2013 г.,$ 10 500,автомат,черный,седан,2.4,бензин,руль слева,92 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fd9414e023a236413071,09_11_2023
+Honda Insight,2012 г.,$ 10 500,вариатор,белый,хэтчбек 5 дв.,1.3,гибрид,руль слева,196 303 км,Бишкек,https://www.mashina.kg/details/honda-insight-64fee334624f1403650652,09_11_2023
+Lexus ES,2008 г.,$ 12 500,автомат,серебристый,седан,3.5,бензин,руль слева,172 500 км,Бишкек,https://www.mashina.kg/details/lexus-es-64fd5e0798039412835062,09_11_2023
+Toyota Alphard,2006 г.,$ 10 000,автомат,белый,минивэн,2.4,бензин,руль справа,110 567 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fede529b1f2414429449,09_11_2023
+Toyota Prius v (+),2017 г.,$ 15 800,автомат,белый,универсал,1.8,гибрид,руль слева,161 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-v---64fd2cdced861121088075,09_11_2023
+Toyota Camry,2005 г.,$ 11 800,автомат,черный,седан,2.4,бензин,руль слева,202 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64feda359c06c269027470,09_11_2023
+Hyundai Sonata,2017 г.,$ 18 500,робот,серый,седан,1.6,бензин,руль слева,150 500 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fd9b0b841c7629885757,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 900,автомат,черный,седан,2.4,бензин,руль слева,136 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe78c1e6fbe294186721,09_11_2023
+BMW X5,2003 г.,$ 10 700,автомат,серебристый,внедорожник 5 дв.,3,дизель,руль слева,222 000 км,Бишкек,https://www.mashina.kg/details/bmw-x5-64fd583c2fbdd774716492,09_11_2023
+Toyota Camry,2015 г.,$ 14 999,автомат,черный,седан,2.5,бензин,руль слева,192 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdeab654101445904733,09_11_2023
+Hyundai Sonata,2017 г.,$ 12 988,автомат,белый,седан,2,бензин,руль слева,156 700 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdcf7745262540646851,09_11_2023
+Mercedes-Benz GL-класс,2006 г.,$ 13 700,автомат,белый,внедорожник 5 дв.,4.7,бензин,руль слева,185 780 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-gl-klass-64fdcc9656729809383762,09_11_2023
+Lexus ES,2004 г.,$ 9 500,автомат,черный,седан,3.3,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/lexus-es-64fdb61b49c1f721415552,09_11_2023
+Honda Accord,2009 г.,$ 10 900,автомат,черный,седан,2.4,бензин,руль слева,174 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fda90b6ff74150095943,09_11_2023
+Hyundai Sonata,2017 г.,$ 12 700,автомат,белый,седан,2,газ,руль слева,117 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe2b8a7a7b0187039093,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 950,автомат,белый,седан,2,газ,руль слева,110 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe9a9a6add9575574308,09_11_2023
+Toyota Corolla,2015 г.,$ 14 000,автомат,синий,седан,1.8,бензин,руль слева,10 226 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fdca7bccc8c744546345,09_11_2023
+Toyota Wish,2005 г.,$ 8 200,автомат,баклажан,компактвэн,1.8,бензин,руль справа,299 999 км,Бишкек,https://www.mashina.kg/details/toyota-wish-64fddd8c05189563350315,09_11_2023
+Honda Fit,2008 г.,$ 7 132,автомат,белый,хэтчбек 5 дв.,1.3,бензин,руль справа,290 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fdd04682efa897757208,09_11_2023
+Daewoo Matiz,2008 г.,$ 5 207,автомат,серый,хэтчбек 5 дв.,0.8,бензин,руль слева,127 000 км,Бишкек,https://www.mashina.kg/details/daewoo-matiz-64fef20989b48653112905,09_11_2023
+Honda Stepwgn,2003 г.,$ 11 700,автомат,белый,минивэн,2,бензин,руль справа,130 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fda57ce98eb530001798,09_11_2023
+Mercedes-Benz CLS,2006 г.,$ 12 800,автомат,черный,седан,5,бензин,руль слева,242 000 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-cls-64feeb77d41a7624816539,09_11_2023
+Kia K5 II Седан,2018 г.,$ 14 900,автомат,черный,седан,2,газ,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64feeb40e0c6d510879144,09_11_2023
+Honda Fit Aria,2003 г.,$ 7 000,вариатор,белый,седан,1.5,бензин,руль справа,205 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-aria-64feeb2433a27846938713,09_11_2023
+Subaru Forester,2017 г.,$ 17 000,вариатор,черный,внедорожник 5 дв.,2.5,бензин,руль слева,104 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64feea7340403044551083,09_11_2023
+Lexus ES,2004 г.,$ 8 500,автомат,серебристый,седан,3.3,бензин,руль слева,280 725 км,Бишкек,https://www.mashina.kg/details/lexus-es-64fd58d0489e6813733950,09_11_2023
+Hyundai Avante,2011 г.,$ 10 200,автомат,серый,седан,1.6,бензин,руль слева,163 245 км,Бишкек,https://www.mashina.kg/details/hyundai-avante-64fdc11dd9220467039455,09_11_2023
+Subaru Legacy,2004 г.,$ 6 300,автомат,белый,универсал,2,бензин,руль справа,220 000 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64febc2413aa1915232846,09_11_2023
+Toyota Windom,2003 г.,$ 9 000,автомат,синий,седан,3,бензин,руль справа,206 000 км,Бишкек,https://www.mashina.kg/details/toyota-windom-64fee89a741ff713176543,09_11_2023
+Toyota Vellfire,2008 г.,$ 14 500,автомат,серый,минивэн,3.5,бензин,руль справа,140 000 км,Бишкек,https://www.mashina.kg/details/toyota-vellfire-64fee84e86aab325588438,09_11_2023
+Toyota Avalon,2016 г.,$ 17 200,вариатор,серебристый,седан,2.5,гибрид,руль слева,,Бишкек,https://www.mashina.kg/details/toyota-avalon-64fee84359f90219214904,09_11_2023
+Toyota Prius,2004 г.,$ 7 200,автомат,серебристый,хэтчбек 5 дв.,1.5,гибрид,руль слева,299 999 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fee84049d5c709516903,09_11_2023
+Honda Accord,2003 г.,$ 6 600,автомат,белый,универсал,2.4,бензин,руль справа,300 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fd9d1464e9f505704589,09_11_2023
+Kia K5 II Седан,2016 г.,$ 11 800,автомат,серебристый,седан,2,газ,руль слева,101 001 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fe89ccc9587301691156,09_11_2023
+Honda Fit,2004 г.,$ 8 500,автомат,красный,хэтчбек 5 дв.,1.5,бензин,руль слева,178 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fee76400b02893560042,09_11_2023
+Kia K5 II Седан,2017 г.,$ 14 700,автомат,серый,седан,2,бензин,руль слева,114 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fee7498a7a9369616303,09_11_2023
+Weltmeister EX5,2018 г.,$ 14 500,,белый,внедорожник 5 дв.,автомат,электро,руль слева,23 000 км,Бишкек,https://www.mashina.kg/details/weltmeister-ex5-64fe0601cb957168467378,09_11_2023
+Toyota Camry,2014 г.,$ 17 500,автомат,черный,седан,2.5,бензин,руль слева,245 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe0e2817064977467846,09_11_2023
+Hyundai Elantra,2016 г.,$ 13 500,автомат,черный,седан,2,бензин,руль слева,140 000 км,Бишкек,https://www.mashina.kg/details/hyundai-elantra-64fee623a257f113965791,09_11_2023
+Hyundai Grandeur,2004 г.,$ 5 500,автомат,белый,седан,3,бензин,руль слева,262 678 км,Бишкек,https://www.mashina.kg/details/hyundai-grandeur-64fee5af958f8362733433,09_11_2023
+Toyota Corolla,2005 г.,$ 6 800,автомат,серебристый,хэтчбек 5 дв.,1.6,бензин,руль слева,210 500 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fe9766b4a87241934020,09_11_2023
+Lexus GS,2005 г.,$ 12 500,автомат,серый,седан,3,бензин,руль слева,141 000 км,Бишкек,https://www.mashina.kg/details/lexus-gs-64fe96256550e569987146,09_11_2023
+Toyota Camry,2003 г.,$ 9 500,автомат,черный,седан,2.4,бензин,руль слева,,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe9619807d4615824070,09_11_2023
+Kia Sportage,2018 г.,$ 18 500,робот,белый,внедорожник 5 дв.,1.7,дизель,руль слева,170 000 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fe9610df746766859835,09_11_2023
+Toyota Alphard,2003 г.,$ 11 700,автомат,белый,минивэн,3,бензин,руль справа,144 400 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fdee783f11f073359586,09_11_2023
+Toyota Camry,2005 г.,$ 10 500,автомат,серый,седан,3.3,бензин,руль слева,140 625 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fda9b565d90811744739,09_11_2023
+Honda Inspire,2004 г.,$ 8 600,автомат,белый,седан,3,бензин,руль справа,220 000 км,Бишкек,https://www.mashina.kg/details/honda-inspire-64fe956465cc8684715762,09_11_2023
+Honda Fit,2004 г.,$ 8 800,вариатор,серебристый,хэтчбек 5 дв.,1.5,бензин,руль справа,280 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fe952b9dbe1587233899,09_11_2023
+Toyota Harrier,2005 г.,$ 13 000,автомат,белый,внедорожник 5 дв.,3,бензин,руль справа,112 000 км,Бишкек,https://www.mashina.kg/details/toyota-harrier-64fe94a59ddf8352003652,09_11_2023
+Toyota Estima,2003 г.,$ 8 000,вариатор,серый,минивэн,2.4,гибрид,руль справа,280 000 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64fe942f84343321897878,09_11_2023
+Subaru Forester,2017 г.,$ 15 400,вариатор,белый,внедорожник 5 дв.,2.5,бензин,руль слева,90 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fe93e2c5515500118396,09_11_2023
+Subaru Outback,2004 г.,$ 8 800,автомат,белый,универсал,2.5,бензин,руль справа,199 000 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fe9392a902c214611760,09_11_2023
+Toyota Ist,2005 г.,$ 6 650,автомат,серебристый,хэтчбек 5 дв.,1.3,бензин,руль справа,22 222 км,Бишкек,https://www.mashina.kg/details/toyota-ist-64fdf3408ec0a213831017,09_11_2023
+Toyota Camry,2011 г.,$ 8 900,автомат,серебристый,седан,2.4,бензин,руль слева,164 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe89478b175651326165,09_11_2023
+Kia K7,2016 г.,$ 15 200,автомат,черный,седан,3,газ,руль слева,316 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fde14e0d94c402607430,09_11_2023
+Honda Elysion,2008 г.,$ 13 800,автомат,серебристый,минивэн,3,бензин,руль справа,159 000 км,Бишкек,https://www.mashina.kg/details/honda-elysion-64fde052a31f6637330376,09_11_2023
+Kia Sportage,2017 г.,$ 17 500,робот,белый,внедорожник 5 дв.,1.7,дизель,руль слева,155 000 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fe92cedd25c679677563,09_11_2023
+Volkswagen Jetta,2014 г.,$ 7 950,автомат,коричневый,седан,1.4,бензин,руль слева,259 000 км,Бишкек,https://www.mashina.kg/details/volkswagen-jetta-64fddf38e57eb477253798,09_11_2023
+Lexus RX,2004 г.,$ 15 000,автомат,серебристый,внедорожник 5 дв.,3,бензин,руль слева,245 555 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fd62b0275ef571391955,09_11_2023
+Toyota Camry,2018 г.,$ 19 950,автомат,серебристый,седан,2.5,бензин,руль слева,118 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdc0db5a87a464000555,09_11_2023
+Kia K5 II Седан,2017 г.,$ 12 600,автомат,белый,седан,2,газ,руль слева,219 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fe88ddf0fd7812067473,09_11_2023
+Kia K5 II Седан,2017 г.,$ 16 800,автомат,черный,седан,2,бензин,руль слева,217 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdd6cb09367879371655,09_11_2023
+Subaru Outback,2017 г.,$ 19 000,вариатор,синий,универсал,2.5,бензин,руль слева,84 000 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fd8b7e341a1075870344,09_11_2023
+Honda Fit,2007 г.,$ 8 500,автомат,красный,хэтчбек 5 дв.,1.3,бензин,руль справа,180 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fe873b54bb8382653402,09_11_2023
+Toyota Alphard,2005 г.,$ 13 700,автомат,белый,минивэн,3,бензин,руль справа,137 000 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fdaac454b2d892820872,09_11_2023
+Kia K5 II Седан,2019 г.,$ 14 500,автомат,белый,седан,2,газ,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fe86e0f3846242776670,09_11_2023
+Kia Morning,2016 г.,$ 9 500,автомат,коричневый,хэтчбек 5 дв.,1,бензин,руль слева,74 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fe84dbeccdf531692495,09_11_2023
+Nissan Juke,2013 г.,$ 12 000,вариатор,красный,внедорожник 5 дв.,1.6,бензин,руль слева,145 400 км,Бишкек,https://www.mashina.kg/details/nissan-juke-64fd4b5b68192634126607,09_11_2023
+Toyota Prius,2017 г.,$ 19 000,вариатор,серебристый,лифтбек,1.8,гибрид,руль слева,58 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fd67c14d921201267178,09_11_2023
+Toyota Camry,2005 г.,$ 7 800,механика,черный,седан,2.4,бензин,руль слева,353 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd9787db079373362495,09_11_2023
+Toyota Camry,2005 г.,$ 10 200,автомат,черный,седан,2.4,бензин,руль слева,190 200 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdbc5974f91013835083,09_11_2023
+Toyota Avensis,2004 г.,$ 7 500,автомат,белый,лифтбек,2,бензин,руль справа,214 000 км,Бишкек,https://www.mashina.kg/details/toyota-avensis-64fe2b86758ae136614682,09_11_2023
+Hyundai Grandeur,2017 г.,$ 15 500,автомат,серебристый,седан,3,газ,руль слева,160 000 км,Бишкек,https://www.mashina.kg/details/hyundai-grandeur-64fe81e8c09c5205503738,09_11_2023
+BMW 5 серии,2008 г.,$ 10 500,автомат,серый,седан,3,бензин,руль слева,238 257 км,Бишкек,https://www.mashina.kg/details/bmw-5-serii-64fe816ee4ad6853291208,09_11_2023
+Lexus RX,2003 г.,$ 9 800,автомат,черный,внедорожник 5 дв.,3,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fe814f8fca1253720922,09_11_2023
+Toyota Crown,2008 г.,$ 13 000,автомат,хамелеон,седан,3.5,бензин,руль справа,20 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fe8025c247c883180247,09_11_2023
+Toyota Camry,2017 г.,$ 16 800,автомат,черный,седан,2.5,бензин,руль слева,146 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe7f0989f12338408252,09_11_2023
+Toyota Prius,2017 г.,$ 17 500,вариатор,белый,лифтбек,1.8,гибрид,руль слева,105 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fe7e99b9af0994559975,09_11_2023
+Subaru Outback,2004 г.,$ 9 500,автомат,синий,универсал,3,бензин,руль справа,282 471 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fdf17fb67f5763795708,09_11_2023
+Kia K7,2017 г.,$ 15 000,автомат,серебристый,седан,3,газ,руль слева,275 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fe7d55cb03d138019980,09_11_2023
+Hyundai Solaris,2015 г.,$ 5 660,механика,белый,седан,1.4,бензин,руль слева,446 000 км,Бишкек,https://www.mashina.kg/details/hyundai-solaris-64fec136e986f592987419,09_11_2023
+Lexus RX,2004 г.,$ 14 500,автомат,черный,внедорожник 5 дв.,3,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fec11dd8f0f927316450,09_11_2023
+Hyundai Santa Fe,2016 г.,$ 19 200,автомат,серебристый,внедорожник 5 дв.,2,дизель,руль слева,170 000 км,Бишкек,https://www.mashina.kg/details/hyundai-santa-fe-64fdacf2b64dc742195836,09_11_2023
+Nissan Almera Tino,2003 г.,$ 4 415,механика,синий,компактвэн,1.8,бензин,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/nissan-almera-tino-64fec0e0ccda7744773845,09_11_2023
+JAC S7,2023 г.,$ 18 500,робот,синий,внедорожник 5 дв.,1.5,бензин,руль слева,50 км,Бишкек,https://www.mashina.kg/details/jac-s7-64febfd71613a229288289,09_11_2023
+Mazda Demio,2003 г.,$ 4 700,автомат,серый,хэтчбек 5 дв.,1.3,бензин,руль справа,,Бишкек,https://www.mashina.kg/details/mazda-demio-64febfc054fea931575415,09_11_2023
+Subaru Outback,2010 г.,$ 13 700,вариатор,синий,универсал,2.5,бензин,руль слева,166 000 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fdcd1af049f369364595,09_11_2023
+Mercedes-Benz E-класс,2003 г.,$ 11 500,автомат,серебристый,седан,3.2,бензин,руль слева,185 000 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-e-klass-64fdb4c1b641c634110608,09_11_2023
+Kia K5 II Седан,2016 г.,$ 12 500,автомат,серебристый,седан,2,газ,руль слева,195 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64febf4220a01275614781,09_11_2023
+ВАЗ (Lada) 2107,2011 г.,$ 4 302,механика,зеленый,седан,1.6,бензин,руль слева,7 132 км,Бишкек,https://www.mashina.kg/details/vaz-lada-2107-64febef79647a861821068,09_11_2023
+Toyota Camry,2003 г.,$ 8 800,автомат,белый,седан,2.4,бензин,руль слева,230 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdca857c6cc737094850,09_11_2023
+Honda Jazz,2006 г.,$ 8 100,вариатор,серебристый,хэтчбек 5 дв.,1.3,бензин,руль слева,,Бишкек,https://www.mashina.kg/details/honda-jazz-64febda2e600f136049971,09_11_2023
+Subaru Forester,2005 г.,$ 9 300,автомат,белый,универсал,2,бензин,руль справа,225 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64febce4ca2e8386986943,09_11_2023
+Audi Q5,2010 г.,$ 20 000,автомат,белый,внедорожник 5 дв.,2,бензин,руль слева,83 000 км,Бишкек,https://www.mashina.kg/details/audi-q5-64febcc9ea5d4317660475,09_11_2023
+Toyota Vellfire,2009 г.,$ 15 950,автомат,белый,минивэн,3.5,бензин,руль справа,143 000 км,Бишкек,https://www.mashina.kg/details/toyota-vellfire-64fd73b432a7b405208163,09_11_2023
+Kia K5 I Седан,2012 г.,$ 11 600,автомат,белый,седан,2,газ,руль слева,289 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64febc12a5f10384797677,09_11_2023
+Hyundai Sonata,2017 г.,$ 13 800,автомат,черный,седан,2,бензин,руль слева,76 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64febbf627468963163732,09_11_2023
+Kia K5 II Седан,2017 г.,$ 14 800,автомат,синий,седан,2,газ,руль слева,156 500 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdbb78e09b9921088553,09_11_2023
+Toyota Prius,2016 г.,$ 14 900,вариатор,синий,лифтбек,1.8,гибрид,руль слева,23 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64feb8a6c20b4795801943,09_11_2023
+Ford Focus,2009 г.,$ 8 800,автомат,синий,седан,2,бензин,руль слева,180 000 км,Бишкек,https://www.mashina.kg/details/ford-focus-64fde33199150934377614,09_11_2023
+Volkswagen Polo,2013 г.,$ 5 900,механика,белый,седан,1.6,бензин,руль слева,342 000 км,Бишкек,https://www.mashina.kg/details/volkswagen-polo-64fed600e6106893974085,09_11_2023
+Toyota Camry (Japan),2003 г.,$ 9 100,автомат,серебристый,седан,2.4,бензин,руль справа,175 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-japan-64fd6b11b1df0131969734,09_11_2023
+Mazda Demio,2005 г.,$ 5 207,автомат,серебристый,хэтчбек 5 дв.,1.5,бензин,руль справа,220 000 км,Бишкек,https://www.mashina.kg/details/mazda-demio-64fed5be2f5d0914289561,09_11_2023
+Honda Fit,2006 г.,$ 6 900,вариатор,бирюзовый,хэтчбек 5 дв.,1.3,бензин,руль справа,297 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fdcbec6e810928050471,09_11_2023
+Kia Morning,2017 г.,$ 8 700,автомат,красный,хэтчбек 5 дв.,1,бензин / газ,руль слева,96 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fed58383abb188135426,09_11_2023
+Toyota Camry,2003 г.,$ 7 999,автомат,черный,седан,2.4,бензин,руль слева,214 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd8346e8625729153568,09_11_2023
+Toyota Camry,2014 г.,$ 13 900,автомат,серый,седан,2.5,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fed4c11affd716157124,09_11_2023
+Lexus RX,2004 г.,$ 13 400,автомат,серый,внедорожник 5 дв.,3.3,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fec23f6d4a9710487290,09_11_2023
+BMW 7 серии,2009 г.,$ 16 000,автомат,серый,седан,4.4,бензин,руль слева,118 000 км,Бишкек,https://www.mashina.kg/details/bmw-7-serii-64fed4973fb41555138673,09_11_2023
+Honda CR-V,2008 г.,$ 13 100,автомат,золотистый,внедорожник 5 дв.,2.4,бензин,руль слева,222 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fed4822c7df392085725,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 333,автомат,белый,седан,2,газ,руль слева,123 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe27441d7ae342830029,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 888,автомат,белый,седан,2,газ,руль слева,120 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe256ca1a01246515128,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 900,автомат,черный,седан,2,газ,руль слева,132 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe22971ad3b191674728,09_11_2023
+Mercedes-Benz E-класс,2004 г.,$ 9 800,автомат,серый,седан,3.2,бензин,руль слева,350 000 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-e-klass-64fed3e01eeac972403917,09_11_2023
+Kia K5 II Седан,2018 г.,$ 14 500,автомат,белый,седан,2,газ,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fed33e8f8bc052686989,09_11_2023
+Hyundai Sonata,2018 г.,$ 14 500,автомат,серебристый,седан,2,газ,руль слева,145 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fed33696cf4260840213,09_11_2023
+Toyota Prius,2015 г.,$ 12 500,автомат,черный,хэтчбек 5 дв.,1.8,гибрид,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fed2e8b1a17979015933,09_11_2023
+Hyundai Avante,2017 г.,$ 13 200,автомат,белый,седан,1.6,бензин / газ,руль слева,120 000 км,Бишкек,https://www.mashina.kg/details/hyundai-avante-64fed1f521c01118242824,09_11_2023
+Toyota Crown,2005 г.,$ 9 800,автомат,серебристый,седан,3,бензин,руль справа,250 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fed158ac58c517908749,09_11_2023
+Lexus RX,2005 г.,$ 15 700,вариатор,серебристый,внедорожник 5 дв.,3.3,гибрид,руль слева,190 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fda965e7947805170463,09_11_2023
+Toyota Estima,2005 г.,$ 13 000,автомат,серый,минивэн,3,бензин,руль справа,,Бишкек,https://www.mashina.kg/details/toyota-estima-64fe3472a288c294239883,09_11_2023
+Subaru Forester,2017 г.,$ 18 500,вариатор,белый,внедорожник 5 дв.,2.5,бензин,руль слева,52 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fcb9394fc34984792506,09_11_2023
+Subaru Forester,2006 г.,$ 9 500,автомат,серебристый,универсал,2,бензин,руль справа,200 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fe2a6f81895361228611,09_11_2023
+Audi A6,2003 г.,$ 6 500,автомат,серебристый,седан,2.4,бензин,руль слева,247 000 км,Бишкек,https://www.mashina.kg/details/audi-a6-64fe25ce8f26e725731775,09_11_2023
+Honda CR-V,2004 г.,$ 12 000,автомат,белый,внедорожник 5 дв.,2,бензин,руль справа,283 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fe244487010325479887,09_11_2023
+Hyundai Sonata,2017 г.,$ 14 550,автомат,серебристый,седан,2,газ,руль слева,210 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe23c7b0912474395112,09_11_2023
+Volkswagen Bora,2023 г.,$ 19 000,автомат,белый,седан,1.5,бензин,руль слева,,Бишкек,https://www.mashina.kg/details/volkswagen-bora-64fe215143e36387157414,09_11_2023
+Toyota Alphard,2005 г.,$ 10 900,автомат,черный,минивэн,2.4,бензин,руль справа,173 665 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fe20b7cafcb245841130,09_11_2023
+Kia Sorento,2016 г.,$ 19 000,автомат,белый,внедорожник 5 дв.,2,дизель,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/kia-sorento-64fe1c3ae5694108990425,09_11_2023
+Subaru Legacy,2004 г.,$ 6 400,автомат,белый,седан,2,бензин,руль справа,192 500 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64fe1a42dfb9d689558171,09_11_2023
+Honda Fit,2003 г.,$ 5 886,автомат,серый,хэтчбек 5 дв.,1.5,бензин,руль справа,390 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fe1865b7059979791970,09_11_2023
+Honda Fit,2008 г.,$ 8 800,автомат,черный,хэтчбек 5 дв.,1.5,бензин,руль слева,223 500 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fe183fef8e6422917009,09_11_2023
+Kia K7,2017 г.,$ 19 500,автомат,черный,седан,2.4,бензин,руль слева,120 366 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fd97d2578ba350302586,09_11_2023
+Nissan Almera,2003 г.,$ 3 300,механика,серебристый,хэтчбек 5 дв.,1.5,бензин,руль слева,350 000 км,Бишкек,https://www.mashina.kg/details/nissan-almera-64fe1143d64f2012285641,09_11_2023
+Chevrolet Lacetti,2007 г.,$ 4 868,механика,бирюзовый,универсал,1.6,бензин,руль слева,230 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-lacetti-64fe0eb5e04a0094378256,09_11_2023
+Toyota Alphard,2007 г.,$ 16 000,автомат,белый,минивэн,3,бензин,руль справа,140 000 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fe0c8ad7e0c495197211,09_11_2023
+Volkswagen Golf,2003 г.,$ 5 800,механика,серебристый,хэтчбек 5 дв.,1.4,бензин,руль слева,175 000 км,Бишкек,https://www.mashina.kg/details/volkswagen-golf-64fe0b8499619468792016,09_11_2023
+Nissan Teana,2003 г.,$ 5 600,автомат,серебристый,седан,2,бензин,руль справа,321 568 км,Бишкек,https://www.mashina.kg/details/nissan-teana-64fda17ecc0e3766745649,09_11_2023
+Toyota Camry,2017 г.,$ 15 200,автомат,белый,седан,2.5,бензин,руль слева,108 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe0abcd4176432796166,09_11_2023
+Honda Civic,2004 г.,$ 4 981,автомат,золотистый,седан,1.6,бензин,руль слева,275 000 км,Бишкек,https://www.mashina.kg/details/honda-civic-64fe05a8b1eb9675095096,09_11_2023
+Kia Sportage,2017 г.,$ 18 399,автомат,белый,внедорожник 5 дв.,2,дизель,руль слева,170 000 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fea409e5ea1416456853,09_11_2023
+BMW 5 серии,2009 г.,$ 15 000,автомат,белый,седан,2.5,бензин,руль слева,150 000 км,Бишкек,https://www.mashina.kg/details/bmw-5-serii-64fea3fc505e1232540522,09_11_2023
+Nissan Bluebird Sylphy,2003 г.,$ 3 962,автомат,золотистый,седан,1.5,бензин,руль справа,250 000 км,Бишкек,https://www.mashina.kg/details/nissan-bluebird-sylphy-64fea3f00313f835497811,09_11_2023
+Toyota Sequoia,2003 г.,$ 19 900,автомат,серебристый,внедорожник 5 дв.,4.7,бензин,руль слева,161 100 км,Бишкек,https://www.mashina.kg/details/toyota-sequoia-64fea2ff4e2c7155594979,09_11_2023
+Honda Accord,2004 г.,$ 8 800,автомат,серый,седан,2,бензин,руль справа,350 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fea2d9d5528331397155,09_11_2023
+Mazda Demio,2004 г.,$ 5 700,автомат,бирюзовый,хэтчбек 5 дв.,1.3,бензин,руль справа,220 000 км,Бишкек,https://www.mashina.kg/details/mazda-demio-64fea26a96391086782225,09_11_2023
+Subaru Forester,2007 г.,$ 8 000,автомат,хамелеон,универсал,2,бензин,руль справа,200 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fd517d1f137353505185,09_11_2023
+Toyota Camry (Japan),2005 г.,$ 12 000,автомат,белый,седан,2.4,бензин,руль справа,200 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-japan-64fdf72039c64439685336,09_11_2023
+Hyundai Sonata,2020 г.,$ 15 500,автомат,белый,седан,2,газ,руль слева,,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fea0a1cc934135806299,09_11_2023
+Toyota Camry,2007 г.,$ 11 000,вариатор,серебристый,седан,2.4,гибрид,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fea009bb2f1918913616,09_11_2023
+Mazda 6,2007 г.,$ 6 500,автомат,черный,седан,2.3,бензин,руль слева,175 000 км,Бишкек,https://www.mashina.kg/details/mazda-6-64fd81d5bf41c667180720,09_11_2023
+Kia Optima,2017 г.,$ 14 500,автомат,синий,седан,2.4,бензин,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/kia-optima-64fe9fcc35e14289341463,09_11_2023
+Toyota Corolla,2017 г.,$ 15 600,вариатор,черный,седан,1.8,бензин,руль слева,85 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fd6be36ee1a629788850,09_11_2023
+Kia K5 II Седан,2018 г.,$ 16 700,автомат,белый,седан,2,газ,руль слева,160 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fd6a2539b64626311471,09_11_2023
+Kia K5 II Седан,2018 г.,$ 16 000,автомат,белый,седан,2,газ,руль слева,146 077 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fe9ee4323d3138269318,09_11_2023
+Honda Stepwgn,2003 г.,$ 12 500,автомат,серебристый,минивэн,2,бензин,руль справа,191 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fd8144b72fe454992085,09_11_2023
+Toyota Camry,2008 г.,$ 10 300,автомат,черный,седан,2.4,бензин,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe9e9d87bc0006814417,09_11_2023
+Subaru Forester,2017 г.,$ 14 800,вариатор,черный,внедорожник 5 дв.,2.5,бензин,руль слева,100 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fd7fc11e3f6612810337,09_11_2023
+Toyota Camry,2004 г.,$ 10 800,автомат,черный,седан,3,бензин,руль слева,257 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe9e36a98aa590584583,09_11_2023
+Honda CR-V,2003 г.,$ 8 000,автомат,черный,внедорожник 5 дв.,2,бензин,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fe9d933686d239677610,09_11_2023
+Ford Focus (North America),2009 г.,$ 8 700,автомат,синий,седан,2,бензин,руль слева,196 000 км,Бишкек,https://www.mashina.kg/details/ford-focus-north-america-64fe0a53d3231135208947,09_11_2023
+Honda Inspire,2003 г.,$ 8 200,автомат,черный,седан,3,бензин,руль справа,195 000 км,Бишкек,https://www.mashina.kg/details/honda-inspire-64feb82407b93385747530,09_11_2023
+Hyundai Sonata,2017 г.,$ 13 000,автомат,серебристый,седан,2,газ,руль слева,255 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64feb6bd8bb87451791037,09_11_2023
+Subaru Forester,2019 г.,$ 15 000,вариатор,вишня,внедорожник 5 дв.,2.5,бензин,руль слева,22 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64feb64180799011014923,09_11_2023
+Mazda 5,2007 г.,$ 6 000,механика,красный,компактвэн,1.8,бензин,руль слева,209 000 км,Бишкек,https://www.mashina.kg/details/mazda-5-64feb5e11d9c4334538173,09_11_2023
+Toyota Prius c,2017 г.,$ 12 500,автомат,черный,хэтчбек 5 дв.,1.5,гибрид,руль слева,9 800 км,Бишкек,https://www.mashina.kg/details/toyota-prius-c-64feb55786705794415385,09_11_2023
+Honda CR-V,2005 г.,$ 12 000,автомат,черный,внедорожник 5 дв.,2,бензин,руль слева,198 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64feb52dd69ba494486701,09_11_2023
+Toyota Alphard,2008 г.,$ 15 500,автомат,черный,минивэн,3,бензин,руль справа,135 899 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fdd7b4b85c0728554275,09_11_2023
+Subaru Outback,2010 г.,$ 12 900,вариатор,серебристый,универсал,2.5,бензин,руль слева,210 000 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64feb4d3abdb9882531225,09_11_2023
+Toyota Camry,2017 г.,$ 19 000,автомат,белый,седан,2.5,бензин,руль слева,77 250 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64feb4a77ab0d921859927,09_11_2023
+BMW 5 серии,2008 г.,$ 12 700,автомат,серебристый,седан,3,бензин,руль слева,215 000 км,Бишкек,https://www.mashina.kg/details/bmw-5-serii-64feb49e03fb4631820044,09_11_2023
+Ford Mondeo,2004 г.,$ 3 792,автомат,золотистый,лифтбек,2.5,бензин,руль слева,285 900 км,Бишкек,https://www.mashina.kg/details/ford-mondeo-64feb44180559043171179,09_11_2023
+Lexus RX,2005 г.,$ 12 500,автомат,серебристый,внедорожник 5 дв.,3,бензин,руль слева,270 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdadbdae688969230333,09_11_2023
+Hyundai Sonata,2019 г.,$ 19 500,автомат,белый,седан,2,бензин / газ,руль слева,90 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64feb3e06c441910122880,09_11_2023
+Honda Fit,2005 г.,$ 5 999,вариатор,бирюзовый,хэтчбек 5 дв.,1.3,бензин,руль справа,310 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64feb3b97b233754168911,09_11_2023
+Toyota Alphard,2005 г.,$ 13 600,автомат,белый,минивэн,3,бензин,руль справа,220 000 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64feb3aba5729544724435,09_11_2023
+FAW Bestune NAT,2022 г.,$ 18 000,,белый,минивэн,автомат,электро,руль слева,300 км,Бишкек,https://www.mashina.kg/details/faw-bestune-nat-64feb3769c0ab630147234,09_11_2023
+Chevrolet Lacetti,2006 г.,$ 4 302,механика,красный,седан,1.6,бензин,руль слева,185 977 км,Бишкек,https://www.mashina.kg/details/chevrolet-lacetti-64feb362bc818148471296,09_11_2023
+Mazda Demio,2003 г.,$ 6 500,автомат,оранжевый,хэтчбек 5 дв.,1.5,бензин,руль справа,193 000 км,Бишкек,https://www.mashina.kg/details/mazda-demio-64fd8e1cefa7f193906606,09_11_2023
+Toyota Camry,2012 г.,$ 13 500,автомат,серый,седан,2.5,бензин,руль слева,125 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64feb2f0b0032901840098,09_11_2023
+Honda Accord,2003 г.,$ 10 500,автомат,синий,седан,2.4,бензин,руль справа,200 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fee5966fe16658522982,09_11_2023
+Toyota Prius,2015 г.,$ 13 000,автомат,черный,хэтчбек 5 дв.,1.8,гибрид,руль слева,190 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fee584643f8418216184,09_11_2023
+Honda CR-V,2008 г.,$ 15 300,автомат,серый,внедорожник 5 дв.,2.4,бензин,руль слева,180 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fee50e4e076063141674,09_11_2023
+ВАЗ (Lada) 2107,2011 г.,$ 3 396,механика,белый,седан,1.6,бензин,руль слева,100 000 км,Бишкек,https://www.mashina.kg/details/vaz-lada-2107-64fee4fbbedae184282640,09_11_2023
+Honda Fit,2003 г.,$ 6 000,вариатор,серебристый,хэтчбек 5 дв.,1.3,бензин,руль справа,295 285 км,Бишкек,https://www.mashina.kg/details/honda-fit-64feadfd34b26198036259,09_11_2023
+Toyota Camry,2013 г.,$ 15 000,автомат,черный,седан,2.5,бензин,руль слева,150 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fee2e3a115b893902983,09_11_2023
+Kia K5 II Седан,2018 г.,$ 18 000,автомат,черный,седан,2,бензин,руль слева,156 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fece6fc2661346459640,09_11_2023
+Toyota Camry,2014 г.,$ 16 000,вариатор,серебристый,седан,2.5,гибрид,руль слева,175 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fee2b9d5b1f592287152,09_11_2023
+Kia K7,2018 г.,$ 14 700,автомат,белый,седан,3,газ,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fee1bf53dd0514881526,09_11_2023
+Kia Sportage,2017 г.,$ 17 700,робот,синий,внедорожник 5 дв.,1.7,дизель,руль слева,120 000 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fee154623fb985226707,09_11_2023
+Toyota Ist,2004 г.,$ 8 800,автомат,серый,хэтчбек 5 дв.,1.5,бензин,руль справа,91 425 км,Бишкек,https://www.mashina.kg/details/toyota-ist-64fee0e944e9f756855243,09_11_2023
+Honda Fit,2004 г.,$ 7 300,вариатор,синий,хэтчбек 5 дв.,1.3,бензин,руль справа,190 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64feb5636dd8d955992678,09_11_2023
+Toyota Mark X,2004 г.,$ 7 700,автомат,серебристый,седан,2.5,бензин,руль справа,225 000 км,Бишкек,https://www.mashina.kg/details/toyota-mark-x-64fdc5ae9d3a1796251334,09_11_2023
+Lexus GS,2008 г.,$ 14 000,вариатор,черный,седан,3.5,гибрид,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/lexus-gs-64fedebdc11ff943721055,09_11_2023
+Lexus RX,2003 г.,$ 13 900,автомат,серый,внедорожник 5 дв.,3.3,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdcc617c85b975858157,09_11_2023
+Lexus RX,2004 г.,$ 13 500,автомат,бежевый,внедорожник 5 дв.,3.3,бензин,руль слева,203 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdc27f303e4318852770,09_11_2023
+Toyota Prius,2016 г.,$ 16 700,вариатор,серебристый,лифтбек,1.8,гибрид,руль слева,157 238 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fd9f5d7158f088115223,09_11_2023
+Kia K5 II Седан,2018 г.,$ 14 000,автомат,белый,седан,2,газ,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fe830b7516f230305830,09_11_2023
+Toyota Crown,2006 г.,$ 10 700,автомат,белый,седан,3.5,бензин,руль справа,189 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fedd4365ade674365654,09_11_2023
+Toyota Platz,2004 г.,$ 3 566,автомат,белый,седан,1,бензин,руль справа,225 552 км,Бишкек,https://www.mashina.kg/details/toyota-platz-64fd53ba919a1727577646,09_11_2023
+Kia Carens,2018 г.,$ 14 800,автомат,серый,компактвэн,2,бензин,руль слева,84 000 км,Бишкек,https://www.mashina.kg/details/kia-carens-64fdc72847929408686221,09_11_2023
+Toyota Crown,2008 г.,$ 14 500,автомат,серый,седан,3.5,бензин,руль справа,130 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fdc6be0d031418081333,09_11_2023
+Toyota Camry,2004 г.,$ 10 500,механика,бежевый,седан,2.4,бензин,руль слева,351 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fda159d66ab451223333,09_11_2023
+Toyota Vellfire,2008 г.,$ 14 500,вариатор,черный,минивэн,2.4,бензин,руль справа,128 000 км,Бишкек,https://www.mashina.kg/details/toyota-vellfire-64fdc6540651c451104938,09_11_2023
+Hyundai Sonata,2017 г.,$ 14 100,автомат,черный,седан,2,гибрид,руль слева,105 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdc618c99bc536673255,09_11_2023
+Subaru Crosstrek,2019 г.,$ 16 800,вариатор,черный,внедорожник 5 дв.,2,бензин,руль слева,90 000 км,Бишкек,https://www.mashina.kg/details/subaru-crosstrek-64fdc56dae4cb528467098,09_11_2023
+Lexus GS,2006 г.,$ 9 300,автомат,серебристый,седан,3,бензин,руль слева,260 000 км,Бишкек,https://www.mashina.kg/details/lexus-gs-64fdc535691f4805307454,09_11_2023
+Honda Accord,2003 г.,$ 8 600,автомат,серый,седан,2.4,бензин,руль справа,250 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fdc519ae7fd357253475,09_11_2023
+Hyundai Tucson,2018 г.,$ 18 300,робот,белый,внедорожник 5 дв.,1.7,дизель,руль слева,170 000 км,Бишкек,https://www.mashina.kg/details/hyundai-tucson-64fdc4ba8041b240983877,09_11_2023
+Subaru Impreza,2016 г.,$ 12 200,вариатор,серый,хэтчбек 5 дв.,2,бензин,руль слева,187 000 км,Бишкек,https://www.mashina.kg/details/subaru-impreza-64fd8122371b3830122511,09_11_2023
+Subaru Legacy,2005 г.,$ 7 300,автомат,белый,седан,2,бензин,руль справа,250 000 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64fdc3964c59a484415644,09_11_2023
+Toyota Corolla,2011 г.,$ 5 660,механика,серый,седан,1.6,бензин,руль слева,248 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fdc2d9aa410311081663,09_11_2023
+Kia K5 II Седан,2016 г.,$ 13 000,автомат,белый,седан,2,газ,руль слева,138 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdbfd6c241d770983505,09_11_2023
+Hyundai Sonata,2017 г.,$ 15 200,автомат,зеленый,седан,2.4,бензин,руль слева,61 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdc245c8c1f784786478,09_11_2023
+Honda Edix,2004 г.,$ 7 100,автомат,черный,компактвэн,1.7,бензин,руль справа,262 602 км,Бишкек,https://www.mashina.kg/details/honda-edix-64fdc2045caed753998236,09_11_2023
+Mercedes-Benz G-класс AMG,2003 г.,$ 16 900,автомат,черный,внедорожник 5 дв.,5.4,бензин,руль слева,378 000 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-g-klass-amg-64fce496e3336429555738,09_11_2023
+Toyota Mark X,2005 г.,$ 7 600,автомат,белый,седан,2.5,бензин,руль слева,199 500 км,Бишкек,https://www.mashina.kg/details/toyota-mark-x-64fdc0aabdfa3082432321,09_11_2023
+Kia K5 II Седан,2019 г.,$ 15 900,автомат,хамелеон,седан,2,газ,руль слева,215 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdbeec47d90592775228,09_11_2023
+Lexus GS,2005 г.,$ 12 000,автомат,синий,седан,3,бензин,руль слева,192 000 км,Бишкек,https://www.mashina.kg/details/lexus-gs-64fdbe48580e4923691844,09_11_2023
+Toyota Crown,2006 г.,$ 8 100,автомат,черный,седан,3.5,бензин,руль справа,270 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fdbdb901589085598151,09_11_2023
+Hyundai Grandeur,2019 г.,$ 14 200,автомат,черный,седан,3,газ,руль слева,114 000 км,Бишкек,https://www.mashina.kg/details/hyundai-grandeur-64fdf0ea92651276455262,09_11_2023
+Kia K5 II Седан,2016 г.,$ 13 000,автомат,черный,седан,2,газ,руль слева,247 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdf010c8305461594080,09_11_2023
+Hyundai Sonata,2017 г.,$ 14 500,автомат,белый,седан,2,газ,руль слева,162 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdee532be64464991055,09_11_2023
+Toyota Avensis,2004 г.,$ 7 000,автомат,серебристый,лифтбек,1.8,бензин,руль справа,120 000 км,Бишкек,https://www.mashina.kg/details/toyota-avensis-64fdede9232e3861172394,09_11_2023
+Toyota Crown,2008 г.,$ 13 000,автомат,серебристый,седан,3.5,бензин,руль справа,156 241 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fdeda245b67339451705,09_11_2023
+Kia K5 II Седан,2017 г.,$ 15 500,автомат,черный,седан,2,газ,руль слева,186 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdecf4caf4d402392911,09_11_2023
+Toyota Alphard,2011 г.,$ 17 600,автомат,белый,минивэн,3.5,бензин,руль справа,128 200 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fdec94d432a073540307,09_11_2023
+Hyundai Santa Fe,2009 г.,$ 10 500,автомат,серебристый,внедорожник 5 дв.,2,дизель,руль слева,288 000 км,Бишкек,https://www.mashina.kg/details/hyundai-santa-fe-64fdeae388af1329260099,09_11_2023
+Hyundai Sonata,2018 г.,$ 14 700,автомат,серый,седан,2,бензин,руль слева,81 400 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdea9537569706176752,09_11_2023
+Toyota Camry,2017 г.,$ 15 900,автомат,серебристый,седан,2.5,бензин,руль слева,758 968 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd66ccc7b2f515744815,09_11_2023
+Kia Morning,2016 г.,$ 9 000,автомат,белый,хэтчбек 5 дв.,1,бензин,руль слева,85 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fdea246b201814724575,09_11_2023
+Honda Accord,2003 г.,$ 8 264,автомат,серебристый,седан,2.4,бензин,руль слева,225 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fde733a45d1643998802,09_11_2023
+Subaru Legacy,2003 г.,$ 7 900,автомат,серебристый,универсал,2.5,бензин,руль справа,225 264 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64fde6ae80598044275573,09_11_2023
+Honda Accord,2008 г.,$ 7 800,механика,белый,седан,2.4,бензин,руль слева,276 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fde62bd04c7327517926,09_11_2023
+Toyota Prius,2008 г.,$ 8 500,автомат,белый,хэтчбек 5 дв.,1.5,гибрид,руль слева,282 177 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fd29eb737be512239748,09_11_2023
+Kia Sportage,2017 г.,$ 19 000,автомат,белый,внедорожник 5 дв.,2,дизель,руль слева,119 000 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fde5b8038ca110402531,09_11_2023
+Honda Fit,2004 г.,$ 5 886,вариатор,белый,хэтчбек 5 дв.,1.3,бензин,руль справа,315 480 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fde4df36aed641014900,09_11_2023
+Honda Fit,2004 г.,$ 7 000,вариатор,серебристый,хэтчбек 5 дв.,1.3,бензин,руль справа,193 310 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fde1df45152776091062,09_11_2023
+Toyota Estima,2003 г.,$ 10 754,автомат,серый,минивэн,2.4,бензин,руль справа,160 300 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64fde0a27af32407688907,09_11_2023
+Hyundai Sonata,2019 г.,$ 14 000,автомат,серебристый,седан,2,газ,руль слева,133 254 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fde09abf886859185684,09_11_2023
+Toyota Corolla,2017 г.,$ 9 500,вариатор,белый,седан,1.5,гибрид,руль слева,82 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fe9d69bb1cc053611036,09_11_2023
+Subaru Outback,2004 г.,$ 8 400,автомат,серебристый,седан,3,бензин,руль справа,236 895 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fe9d59dd9bf423944267,09_11_2023
+Toyota Camry,2004 г.,$ 8 600,автомат,черный,седан,2.4,бензин,руль справа,270 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe9c7fd4822428121971,09_11_2023
+Honda CR-V,2004 г.,$ 9 000,механика,черный,внедорожник 5 дв.,2,бензин,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fe9c7b82ef6648662009,09_11_2023
+Mazda Atenza,2003 г.,$ 6 800,автомат,белый,универсал,2.3,бензин,руль справа,190 000 км,Бишкек,https://www.mashina.kg/details/mazda-atenza-64fda84e490a7420024051,09_11_2023
+Subaru Forester,2003 г.,$ 6 500,автомат,вишня,универсал,2,бензин,руль справа,250 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fe9beb46989466969459,09_11_2023
+Toyota Prius,2017 г.,$ 19 500,вариатор,серебристый,лифтбек,1.8,гибрид,руль слева,259 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fd4921a8d04430185099,09_11_2023
+Toyota Camry (Japan),2004 г.,$ 10 600,автомат,серебристый,седан,2.4,бензин,руль справа,264 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-japan-64fe9b626f54b352699911,09_11_2023
+Hyundai Sonata,2019 г.,$ 18 900,автомат,белый,седан,2,бензин / газ,руль слева,159 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdc33e837c4884124559,09_11_2023
+Honda Civic,2009 г.,$ 7 018,вариатор,черный,седан,1.3,гибрид,руль слева,264 000 км,Бишкек,https://www.mashina.kg/details/honda-civic-64fdbb771d285920313280,09_11_2023
+Lexus RX,2008 г.,$ 18 500,автомат,серый,внедорожник 5 дв.,3.5,бензин,руль слева,161 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fd480dafda5777724477,09_11_2023
+Honda Accord,2003 г.,$ 8 200,автомат,серый,седан,2,бензин,руль справа,178 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fe9aa911621281464066,09_11_2023
+Toyota RAV4,2015 г.,$ 18 500,автомат,серый,внедорожник 5 дв.,2.5,бензин,руль слева,70 111 км,Бишкек,https://www.mashina.kg/details/toyota-rav4-64fd9ba937d38388722593,09_11_2023
+Toyota Camry,2017 г.,$ 19 500,автомат,белый,седан,2.5,бензин,руль слева,26 888 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd99d9a53a7649851060,09_11_2023
+Kia K7,2018 г.,$ 19 500,автомат,хамелеон,седан,2.4,бензин,руль слева,157 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fe9a0db01d8980055452,09_11_2023
+Kia Morning,2021 г.,$ 13 300,автомат,белый,хэтчбек 5 дв.,1,бензин,руль слева,21 378 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fe9982ed6b4410524224,09_11_2023
+Hyundai Sonata,2017 г.,$ 14 600,автомат,белый,седан,2,бензин,руль слева,160 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdfcd969ca1619992406,09_11_2023
+Hyundai Getz,2003 г.,$ 5 500,автомат,серый,хэтчбек 5 дв.,1.3,бензин,руль слева,285 000 км,Бишкек,https://www.mashina.kg/details/hyundai-getz-64fe988732b6f372362676,09_11_2023
+Toyota Raum,2004 г.,$ 8 600,автомат,золотистый,компактвэн,1.5,бензин,руль справа,92 000 км,Бишкек,https://www.mashina.kg/details/toyota-raum-64fe98433ca70510294949,09_11_2023
+Subaru Outback,2004 г.,$ 8 100,автомат,серебристый,универсал,2.5,бензин,руль справа,350 000 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fe97f9ed6bd149262646,09_11_2023
+Toyota Windom,2004 г.,$ 8 500,автомат,синий,седан,3,бензин,руль справа,235 000 км,Бишкек,https://www.mashina.kg/details/toyota-windom-64fd3e9219ba2752185962,09_11_2023
+Subaru Legacy,2005 г.,$ 7 500,автомат,серебристый,универсал,2,бензин,руль справа,280 000 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64fe9c01f0107611468099,09_11_2023
+Hyundai Sonata,2014 г.,$ 10 500,автомат,черный,седан,2,газ,руль слева,202 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fedc37de6b3559994259,09_11_2023
+Toyota Alphard,2006 г.,$ 14 500,автомат,белый,минивэн,3,бензин,руль справа,160 000 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fedc2a8b849878323059,09_11_2023
+Honda Elysion,2005 г.,$ 10 200,автомат,серебристый,минивэн,3,бензин,руль слева,190 000 км,Бишкек,https://www.mashina.kg/details/honda-elysion-64fedbf086687691168992,09_11_2023
+Honda Jazz,2008 г.,$ 8 150,вариатор,синий,хэтчбек 5 дв.,1.3,бензин,руль слева,340 000 км,Бишкек,https://www.mashina.kg/details/honda-jazz-64fedbc7b8048882166441,09_11_2023
+Hyundai Grandeur,2018 г.,$ 15 600,автомат,черный,седан,3,газ,руль слева,198 000 км,Бишкек,https://www.mashina.kg/details/hyundai-grandeur-64feda678bda7982938862,09_11_2023
+Toyota Camry,2003 г.,$ 8 999,автомат,белый,седан,2.4,бензин,руль слева,,Бишкек,https://www.mashina.kg/details/toyota-camry-64feda405d25c819838856,09_11_2023
+Toyota Camry,2015 г.,$ 17 800,автомат,хамелеон,седан,2.5,бензин,руль слева,82 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64feda23e86e6945300535,09_11_2023
+Toyota Camry,2016 г.,$ 14 800,вариатор,белый,седан,2.5,гибрид,руль слева,153 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fed94b8f05c031452679,09_11_2023
+Toyota Camry,2003 г.,$ 7 900,автомат,черный,седан,2.4,бензин,руль слева,350 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe716e9d6ec832987973,09_11_2023
+Kia K5 II Седан,2018 г.,$ 14 500,автомат,серебристый,седан,2,газ,руль слева,19 500 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fed93c0190d373727294,09_11_2023
+Nissan Primera,2003 г.,$ 4 075,автомат,серебристый,седан,1.8,бензин,руль справа,270 000 км,Бишкек,https://www.mashina.kg/details/nissan-primera-64fed8d492158048849401,09_11_2023
+Honda Stepwgn,2003 г.,$ 11 700,автомат,серебристый,минивэн,2,бензин,руль слева,145 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fd6f0631747042045651,09_11_2023
+Subaru Legacy,2003 г.,$ 7 358,автомат,белый,седан,2,бензин,руль справа,285 000 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64fdc0dda2dae967351557,09_11_2023
+BMW 5 серии,2003 г.,$ 7 500,автомат,черный,универсал,2.2,бензин,руль слева,280 000 км,Бишкек,https://www.mashina.kg/details/bmw-5-serii-64fd9efd73400433998914,09_11_2023
+Kia Morning,2021 г.,$ 9 900,автомат,белый,хэтчбек 5 дв.,1,бензин,руль слева,25 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fd63ed46211410083708,09_11_2023
+Honda Fit,2003 г.,$ 6 500,автомат,черный,хэтчбек 5 дв.,1.5,бензин,руль справа,345 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fcd31ca46a5818868516,09_11_2023
+Toyota Wish,2003 г.,$ 7 400,автомат,черный,компактвэн,1.8,бензин,руль справа,173 423 км,Бишкек,https://www.mashina.kg/details/toyota-wish-64fdbddc6bee7333362427,09_11_2023
+Toyota Camry,2017 г.,$ 18 500,автомат,белый,седан,2.5,бензин,руль слева,123 485 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fed60b124b7603290697,09_11_2023
+Lexus RX,2007 г.,$ 15 900,автомат,серебристый,внедорожник 5 дв.,3.5,бензин,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdd4e0b9aab046447607,09_11_2023
+Toyota Allex,2005 г.,$ 8 300,автомат,белый,хэтчбек 5 дв.,1.8,бензин,руль справа,255 000 км,Бишкек,https://www.mashina.kg/details/toyota-allex-64fdd3082b3c1764060597,09_11_2023
+Lexus RX,2003 г.,$ 11 700,автомат,хамелеон,внедорожник 5 дв.,3,бензин,руль справа,170 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdd2fb92152923808082,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 200,автомат,серебристый,седан,2,газ,руль слева,204 006 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fd3e69868f1013871477,09_11_2023
+Honda CR-V,2003 г.,$ 11 200,автомат,черный,внедорожник 5 дв.,2,бензин,руль справа,255 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fdd05d5aedb222607602,09_11_2023
+Hyundai Sonata,2018 г.,$ 14 500,автомат,серебристый,седан,2,газ,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdd00aecaaa118331137,09_11_2023
+Hyundai Sonata,2015 г.,$ 10 900,автомат,белый,седан,2,газ,руль слева,150 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdd000733df526732016,09_11_2023
+Honda Odyssey,2003 г.,$ 7 700,автомат,серый,минивэн,2.3,бензин,руль справа,217 000 км,Бишкек,https://www.mashina.kg/details/honda-odyssey-64fdcf829bb5b179569318,09_11_2023
+Mazda 5,2008 г.,$ 8 500,автомат,серебристый,компактвэн,2.3,бензин,руль слева,252 666 км,Бишкек,https://www.mashina.kg/details/mazda-5-64fdcee6767c4336485167,09_11_2023
+Toyota Corolla,2006 г.,$ 7 000,механика,серебристый,хэтчбек 5 дв.,1.4,бензин,руль слева,195 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fdcda93b4f1482454232,09_11_2023
+Honda Stream,2006 г.,$ 7 000,автомат,синий,компактвэн,1.7,бензин,руль справа,268 573 км,Бишкек,https://www.mashina.kg/details/honda-stream-64fdcd21331b7617697971,09_11_2023
+Hyundai Elantra,2017 г.,$ 12 700,автомат,белый,седан,2,бензин,руль слева,100 000 км,Бишкек,https://www.mashina.kg/details/hyundai-elantra-64fdccf62b97f257056453,09_11_2023
+Honda CR-V,2003 г.,$ 9 700,автомат,серый,внедорожник 5 дв.,2,бензин,руль слева,172 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fdcc67d8260665149550,09_11_2023
+Hyundai Tucson,2018 г.,$ 19 500,автомат,белый,внедорожник 5 дв.,2,дизель,руль слева,90 000 км,Бишкек,https://www.mashina.kg/details/hyundai-tucson-64fdcb49f1702874178316,09_11_2023
+MINI Coupe,2011 г.,$ 4 300,механика,красный,купе,1.6,бензин,руль справа,184 000 км,Бишкек,https://www.mashina.kg/details/mini-coupe-64fdc9ff4ef90393365578,09_11_2023
+Kia Sportage,2017 г.,$ 18 000,робот,белый,внедорожник 5 дв.,1.7,дизель,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fdc97752a02811946575,09_11_2023
+BMW 7 серии,2011 г.,$ 19 000,автомат,белый,седан,4.4,бензин,руль слева,185 000 км,Бишкек,https://www.mashina.kg/details/bmw-7-serii-64fd2d2a69986277807163,09_11_2023
+Kia Carnival,2017 г.,$ 19 500,автомат,серебристый,минивэн,2.2,дизель,руль слева,194 000 км,Бишкек,https://www.mashina.kg/details/kia-carnival-64fdc8af994e1725605044,09_11_2023
+Toyota Harrier,2003 г.,$ 11 000,автомат,серебристый,внедорожник 5 дв.,3,бензин,руль справа,189 522 км,Бишкек,https://www.mashina.kg/details/toyota-harrier-64fdc8380dfb8887831955,09_11_2023
+Subaru Outback,2018 г.,$ 19 500,вариатор,белый,универсал,2.5,бензин,руль слева,57 000 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fdc738f0f9d545368230,09_11_2023
+Toyota Estima,2003 г.,$ 8 200,автомат,белый,минивэн,2.4,бензин,руль справа,200 000 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64fdb928b1990563175424,09_11_2023
+Kia K5 II Седан,2017 г.,$ 14 500,автомат,черный,седан,2,газ,руль слева,126 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fd56a2f0c3a430207984,09_11_2023
+Kia K5 II Седан,2019 г.,$ 15 700,автомат,белый,седан,2,газ,руль слева,115 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fe926082b62238300173,09_11_2023
+Honda Fit,2010 г.,$ 10 300,автомат,черный,хэтчбек 5 дв.,1.5,бензин,руль слева,150 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fdb29d4dc33679877651,09_11_2023
+Kia K5 II Седан,2016 г.,$ 14 500,автомат,белый,седан,2,газ,руль слева,139 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fd15afa800e269671122,09_11_2023
+Subaru Forester,2017 г.,$ 19 500,вариатор,серебристый,внедорожник 5 дв.,2,бензин,руль слева,50 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fe912fb1ca8558859845,09_11_2023
+Kia K7,2018 г.,$ 18 800,автомат,черный,седан,3,газ,руль слева,32 677 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fda6b3b6ab5839861029,09_11_2023
+Kia Morning,2017 г.,$ 8 800,автомат,бежевый,хэтчбек 5 дв.,1,бензин,руль слева,180 728 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fda8856b6aa395212797,09_11_2023
+Toyota Verso,2010 г.,$ 11 500,вариатор,синий,компактвэн,2.2,дизель,руль слева,110 000 км,Бишкек,https://www.mashina.kg/details/toyota-verso-64fe8e4d61011414999130,09_11_2023
+Honda Stepwgn,2003 г.,$ 8 555,автомат,серебристый,минивэн,2,бензин,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fde014a4d77892019009,09_11_2023
+Honda Stepwgn,2003 г.,$ 11 800,автомат,баклажан,минивэн,2.4,бензин,руль справа,300 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fe8d384d91f433474284,09_11_2023
+Toyota Estima,2003 г.,$ 9 200,автомат,синий,минивэн,2.4,бензин,руль справа,224 650 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64fde2f376286374088698,09_11_2023
+Volkswagen Polo,2018 г.,$ 8 490,автомат,белый,седан,1.6,бензин,руль слева,310 000 км,Бишкек,https://www.mashina.kg/details/volkswagen-polo-64fe8c4734231938921108,09_11_2023
+Hyundai Sonata,2020 г.,$ 15 200,автомат,серебристый,седан,2,газ,руль слева,202 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fde9154fd34093574585,09_11_2023
+Kia Sportage,2017 г.,$ 19 200,автомат,белый,внедорожник 5 дв.,2,дизель,руль слева,88 500 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fde67524bdd383722226,09_11_2023
+Mitsubishi Carisma,2003 г.,$ 4 075,механика,серый,хэтчбек 5 дв.,1.6,бензин,руль справа,240 400 км,Бишкек,https://www.mashina.kg/details/mitsubishi-carisma-64fe8a4211073433859364,09_11_2023
+Toyota RAV4,2018 г.,$ 19 500,автомат,белый,внедорожник 5 дв.,2.5,бензин,руль слева,150 000 км,Бишкек,https://www.mashina.kg/details/toyota-rav4-64fe89f9e8113938802755,09_11_2023
+Kia K7,2019 г.,$ 18 500,автомат,черный,седан,3,газ,руль слева,65 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fe8956ed954729486077,09_11_2023
+Hyundai Tucson,2017 г.,$ 16 000,робот,белый,внедорожник 5 дв.,1.7,дизель,руль слева,67 500 км,Бишкек,https://www.mashina.kg/details/hyundai-tucson-64fd88f4e60f0887675162,09_11_2023
+Honda Fit,2008 г.,$ 7 924,автомат,серебристый,хэтчбек 5 дв.,1.5,бензин,руль справа,,Бишкек,https://www.mashina.kg/details/honda-fit-64fe890f15d25640332879,09_11_2023
+Chevrolet Volt,2013 г.,$ 13 200,вариатор,серебристый,хэтчбек 5 дв.,1.4,гибрид,руль слева,129 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-volt-64fef1799af49764464146,09_11_2023
+Honda CR-V,2004 г.,$ 10 200,автомат,синий,внедорожник 5 дв.,2.4,бензин,руль слева,195 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fe1c106ef71715337274,09_11_2023
+Honda Stream,2003 г.,$ 7 500,автомат,голубой,компактвэн,2,бензин,руль слева,295 000 км,Бишкек,https://www.mashina.kg/details/honda-stream-64fef0ff18aa4322892563,09_11_2023
+Toyota Camry,2016 г.,$ 14 900,автомат,черный,седан,2.5,бензин,руль слева,169 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fef05126766389216201,09_11_2023
+Hyundai Sonata,2017 г.,$ 16 000,автомат,белый,седан,2,газ,руль слева,140 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fd9dedacf73019628746,09_11_2023
+Hyundai Solaris,2012 г.,$ 7 500,автомат,белый,седан,1.6,бензин,руль слева,170 000 км,Бишкек,https://www.mashina.kg/details/hyundai-solaris-64feeff542bde066761597,09_11_2023
+Subaru Legacy,2003 г.,$ 6 300,автомат,серебристый,седан,2,бензин,руль справа,245 000 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64feef8feb28d305447858,09_11_2023
+Kia Optima,2019 г.,$ 16 900,автомат,черный,седан,2.4,бензин,руль слева,107 000 км,Бишкек,https://www.mashina.kg/details/kia-optima-64feef33bc6c3455745965,09_11_2023
+Hyundai Accent,2005 г.,$ 3 200,механика,бежевый,седан,1.5,бензин,руль слева,243 581 км,Бишкек,https://www.mashina.kg/details/hyundai-accent-64feec8528137071743400,09_11_2023
+Kia K5 II Седан,2019 г.,$ 17 500,автомат,черный,седан,2,газ,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fd9c727ad38638644876,09_11_2023
+Toyota Estima,2011 г.,$ 13 000,вариатор,черный,минивэн,2.4,бензин,руль справа,124 000 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64feee3f2b3a3043944531,09_11_2023
+Kia Morning,2018 г.,$ 9 900,автомат,бежевый,хэтчбек 5 дв.,1,бензин,руль слева,90 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fd7a452d7a3730124859,09_11_2023
+Hyundai Avante,2018 г.,$ 14 400,автомат,белый,седан,1.6,бензин,руль слева,110 000 км,Бишкек,https://www.mashina.kg/details/hyundai-avante-64feee3625605598770639,09_11_2023
+Hyundai Elantra,2004 г.,$ 3 849,механика,серый,лифтбек,1.6,бензин,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/hyundai-elantra-64fdbc9c38c70420093043,09_11_2023
+Subaru Crosstrek,2018 г.,$ 17 500,вариатор,белый,внедорожник 5 дв.,2,бензин,руль слева,72 000 км,Бишкек,https://www.mashina.kg/details/subaru-crosstrek-64feece71e299517286489,09_11_2023
+Honda Jazz,2008 г.,$ 10 300,вариатор,белый,хэтчбек 5 дв.,1.3,бензин,руль слева,178 000 км,Бишкек,https://www.mashina.kg/details/honda-jazz-64fda27b5e3c2827907301,09_11_2023
+Kia Carnival,2017 г.,$ 19 800,автомат,черный,минивэн,2.2,дизель,руль слева,155 022 км,Бишкек,https://www.mashina.kg/details/kia-carnival-64feab6b14bab902456293,09_11_2023
+Lexus ES,2007 г.,$ 10 500,автомат,серебристый,седан,3.5,бензин,руль слева,150 000 км,Бишкек,https://www.mashina.kg/details/lexus-es-64feec5c3d45a837603160,09_11_2023
+Toyota Estima,2005 г.,$ 13 000,автомат,белый,минивэн,3,бензин,руль справа,132 000 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64feec3c98fe2826875596,09_11_2023
+Subaru Crosstrek,2017 г.,$ 15 300,вариатор,оранжевый,внедорожник 5 дв.,2,бензин,руль слева,104 000 км,Бишкек,https://www.mashina.kg/details/subaru-crosstrek-64fee9466165d368484354,09_11_2023
+Nissan Primera,2004 г.,$ 4 000,механика,зеленый,универсал,1.8,бензин,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/nissan-primera-64fdbd246070d480131917,09_11_2023
+Lexus GS,2003 г.,$ 13 500,автомат,серый,седан,3,бензин,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/lexus-gs-64fdbce99dc2f458558819,09_11_2023
+Subaru Forester,2019 г.,$ 18 500,вариатор,черный,внедорожник 5 дв.,2.5,бензин,руль слева,66 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fdbc54474fa674024062,09_11_2023
+Hyundai Sonata,2017 г.,$ 13 700,автомат,белый,седан,2,газ,руль слева,135 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdbc374b433150298150,09_11_2023
+BMW 5 серии,2005 г.,$ 5 700,автомат,серебристый,седан,3,бензин,руль справа,201 542 км,Бишкек,https://www.mashina.kg/details/bmw-5-serii-64fdbc11e2052854615129,09_11_2023
+Honda Fit,2008 г.,$ 7 700,вариатор,черный,хэтчбек 5 дв.,1.3,бензин,руль справа,200 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fdbbe0c1007820391531,09_11_2023
+Toyota Camry,2005 г.,$ 10 900,автомат,серебристый,седан,2.4,бензин,руль справа,185 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdbb679e826908172061,09_11_2023
+Toyota RAV4,2003 г.,$ 8 700,автомат,черный,внедорожник 5 дв.,2,бензин,руль слева,350 000 км,Бишкек,https://www.mashina.kg/details/toyota-rav4-64fd240812fba519434157,09_11_2023
+Toyota Wish,2003 г.,$ 7 999,автомат,черный,компактвэн,1.8,бензин,руль справа,240 000 км,Бишкек,https://www.mashina.kg/details/toyota-wish-64fd260b140e7779046936,09_11_2023
+Toyota Harrier,2003 г.,$ 11 700,автомат,черный,внедорожник 5 дв.,2.4,бензин,руль справа,254 000 км,Бишкек,https://www.mashina.kg/details/toyota-harrier-64fdbaa58639a624129575,09_11_2023
+Ford Focus,2011 г.,$ 7 800,робот,бирюзовый,седан,1.6,бензин,руль слева,280 000 км,Бишкек,https://www.mashina.kg/details/ford-focus-64fdba99841ea324542056,09_11_2023
+Toyota Camry,2017 г.,$ 17 500,автомат,серебристый,седан,2.5,бензин,руль слева,104 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdba5f4fef4439449749,09_11_2023
+Subaru Forester,2017 г.,$ 14 800,вариатор,черный,внедорожник 5 дв.,2.5,бензин,руль слева,150 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fdba42aba2c277821295,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 100,автомат,серебристый,седан,2,газ,руль слева,307 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdb8ddb4551732971809,09_11_2023
+Toyota Corolla Verso,2005 г.,$ 8 800,робот,синий,компактвэн,1.8,бензин,руль слева,142 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-verso-64fdb8630bf74391114963,09_11_2023
+Toyota Wish,2003 г.,$ 6 800,автомат,бирюзовый,компактвэн,1.8,бензин,руль справа,299 999 км,Бишкек,https://www.mashina.kg/details/toyota-wish-64fdb83b59b01128428398,09_11_2023
+Kia K5 II Седан,2016 г.,$ 11 600,автомат,белый,седан,2,газ,руль слева,147 211 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdb7a79a0fd910789585,09_11_2023
+Toyota Highlander,2007 г.,$ 18 000,автомат,черный,внедорожник 5 дв.,3.5,бензин,руль слева,,Бишкек,https://www.mashina.kg/details/toyota-highlander-64fdb72ed783a702238176,09_11_2023
+Subaru Outback,2017 г.,$ 17 200,вариатор,золотистый,универсал,2.5,бензин,руль слева,173 000 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fdb671d6cd2150574784,09_11_2023
+Chevrolet Lacetti,2009 г.,$ 3 962,механика,черный,седан,1.6,бензин,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-lacetti-64fdb5976982c443085702,09_11_2023
+Toyota Camry,2004 г.,$ 8 000,механика,серебристый,седан,2.4,бензин,руль слева,305 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fde0615ce04332243967,09_11_2023
+Honda Stepwgn,2003 г.,$ 10 000,автомат,черный,минивэн,2,бензин,руль справа,151 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fdad7c37d88086158091,09_11_2023
+Toyota Camry,2015 г.,$ 17 200,вариатор,серебристый,седан,2.5,гибрид,руль слева,,Бишкек,https://www.mashina.kg/details/toyota-camry-64fddf72ece64004882110,09_11_2023
+Subaru Legacy,2004 г.,$ 8 500,автомат,серебристый,седан,2.5,бензин,руль слева,175 645 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64fddf198361e124506305,09_11_2023
+Honda Stream,2004 г.,$ 7 200,автомат,красный,компактвэн,1.7,бензин,руль справа,229 000 км,Бишкек,https://www.mashina.kg/details/honda-stream-64fddd64aa287956759043,09_11_2023
+Honda Fit,2008 г.,$ 8 000,вариатор,белый,хэтчбек 5 дв.,1.5,бензин,руль слева,193 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fddb2826b44917737008,09_11_2023
+Lexus RX,2003 г.,$ 14 700,автомат,черный,внедорожник 5 дв.,3.3,бензин,руль слева,205 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdda6cd4a09975003919,09_11_2023
+Honda Accord,2003 г.,$ 9 200,автомат,синий,седан,2.4,бензин,руль слева,334 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fdda6997469583374939,09_11_2023
+Toyota Camry,2013 г.,$ 14 999,вариатор,бежевый,седан,2.5,гибрид,руль слева,156 596 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdda414a3e0403606084,09_11_2023
+Kia Sportage,2020 г.,$ 18 500,автомат,серебристый,внедорожник 5 дв.,2.4,бензин,руль слева,25 000 км,Бишкек,https://www.mashina.kg/details/kia-sportage-64fdd9dbdfd03211933021,09_11_2023
+Honda Jazz,2003 г.,$ 7 200,механика,голубой,хэтчбек 5 дв.,1.5,бензин,руль слева,168 661 км,Бишкек,https://www.mashina.kg/details/honda-jazz-64fdd949a055e146517167,09_11_2023
+Mitsubishi Airtrek,2003 г.,$ 6 000,автомат,белый,внедорожник 5 дв.,2.4,бензин,руль справа,290 530 км,Бишкек,https://www.mashina.kg/details/mitsubishi-airtrek-64fdd8cc32422285596249,09_11_2023
+Daewoo Matiz,2008 г.,$ 3 170,механика,синий,хэтчбек 5 дв.,0.8,бензин,руль слева,,Бишкек,https://www.mashina.kg/details/daewoo-matiz-64fdd89169700302804425,09_11_2023
+Toyota Prius,2005 г.,$ 7 900,автомат,вишня,хэтчбек 5 дв.,1.5,гибрид,руль слева,296 320 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fdd829ddd7a842959348,09_11_2023
+Toyota Voxy,2005 г.,$ 10 500,вариатор,черный,компактвэн,2,бензин,руль справа,,Бишкек,https://www.mashina.kg/details/toyota-voxy-64fdd7bac2edb555153903,09_11_2023
+Toyota Camry (Japan),2004 г.,$ 9 900,автомат,серебристый,седан,2.4,бензин,руль справа,237 900 км,Бишкек,https://www.mashina.kg/details/toyota-camry-japan-64fdd72ab82b4219553003,09_11_2023
+BMW 5 серии,2006 г.,$ 8 800,автомат,черный,седан,3,бензин,руль слева,290 000 км,Бишкек,https://www.mashina.kg/details/bmw-5-serii-64fda33ccbb2c446064142,09_11_2023
+Toyota Corolla,2014 г.,$ 14 000,вариатор,белый,седан,1.6,бензин,руль слева,180 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fdd5df2d56a082524356,09_11_2023
+Lexus RX,2007 г.,$ 14 300,автомат,серебристый,внедорожник 5 дв.,3.5,бензин,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdd5a1b6163629200390,09_11_2023
+Toyota Windom,2003 г.,$ 9 800,автомат,серый,седан,3,бензин,руль справа,300 000 км,Бишкек,https://www.mashina.kg/details/toyota-windom-64fd879893acf184345132,09_11_2023
+Toyota Prius,2017 г.,$ 18 300,вариатор,белый,лифтбек,1.8,гибрид,руль слева,85 055 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64feb2c0b06cf030014380,09_11_2023
+Mercedes-Benz CLS,2008 г.,$ 18 000,автомат,черный,седан,5.5,бензин,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-cls-64fd3960107f2270555311,09_11_2023
+Kia Carnival,2018 г.,$ 16 950,автомат,черный,минивэн,2.2,дизель,руль слева,162 452 км,Бишкек,https://www.mashina.kg/details/kia-carnival-64feb22095c17978428941,09_11_2023
+Volkswagen Polo,2013 г.,$ 6 800,механика,белый,седан,1.6,бензин,руль слева,18 500 км,Бишкек,https://www.mashina.kg/details/volkswagen-polo-64feb1cfcd250212532037,09_11_2023
+Kia K5 I Седан,2011 г.,$ 9 400,автомат,серебристый,седан,2,газ,руль слева,320 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fd3d6e284cd253335870,09_11_2023
+Kia Rio,2010 г.,$ 5 660,автомат,серебристый,седан,1.4,бензин,руль слева,147 000 км,Бишкек,https://www.mashina.kg/details/kia-rio-64fdc62449c1b511197923,09_11_2023
+Hyundai Getz,2004 г.,$ 4 528,механика,черный,хэтчбек 5 дв.,1.1,бензин,руль слева,395 000 км,Бишкек,https://www.mashina.kg/details/hyundai-getz-64feb09c9cfd1725907534,09_11_2023
+Toyota Camry,2012 г.,$ 15 500,автомат,черный,седан,2.5,бензин,руль слева,175 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64feb0521f818280916715,09_11_2023
+Kia K5 II Седан,2016 г.,$ 14 800,автомат,белый,седан,2,газ,руль слева,373 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64feafed046be719288419,09_11_2023
+Kia K5 II Седан,2019 г.,$ 16 999,автомат,белый,седан,2,газ,руль слева,190 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fd6bcad9fb8431107755,09_11_2023
+Toyota Corolla Spacio,2003 г.,$ 7 000,автомат,серебристый,компактвэн,1.5,бензин,руль справа,276 992 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-spacio-64feaf11b4dfc646941493,09_11_2023
+Chevrolet Kalos,2008 г.,$ 5 200,механика,черный,хэтчбек 5 дв.,1.2,бензин,руль слева,180 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-kalos-64fcb5376961e244739124,09_11_2023
+Kia Morning,2018 г.,$ 9 300,автомат,бежевый,хэтчбек 5 дв.,1,бензин,руль слева,30 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fd5509496bd540267152,09_11_2023
+Toyota Camry,2011 г.,$ 14 100,автомат,серебристый,седан,2.5,бензин,руль слева,118 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fead958d9e4575422843,09_11_2023
+Honda Stream,2003 г.,$ 6 800,автомат,белый,компактвэн,1.7,бензин,руль справа,180 000 км,Бишкек,https://www.mashina.kg/details/honda-stream-64fdc258f16e6016791788,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 900,автомат,белый,седан,2,газ,руль слева,97 600 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fead506f842140107962,09_11_2023
+Hyundai Sonata,2016 г.,$ 13 999,автомат,белый,седан,2,бензин,руль слева,90 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fead3575989053440680,09_11_2023
+Mercedes-Benz B-Класс,2008 г.,$ 6 800,вариатор,белый,хэтчбек 5 дв.,1.7,бензин,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-b-klass-64fead099cd1a588407106,09_11_2023
+Toyota Prius,2005 г.,$ 8 300,автомат,серебристый,хэтчбек 5 дв.,1.5,гибрид,руль слева,270 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64feac67c1f2b700090441,09_11_2023
+Lexus RX,2006 г.,$ 13 100,автомат,серый,внедорожник 5 дв.,3.3,бензин,руль слева,158 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64feac4011288716293443,09_11_2023
+Chevrolet Lacetti,2007 г.,$ 3 750,механика,синий,хэтчбек 5 дв.,1.4,бензин,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-lacetti-64fed0d820d48171019908,09_11_2023
+Opel Omega,2004 г.,$ 5 800,автомат,черный,универсал,2.5,дизель,руль слева,295 800 км,Бишкек,https://www.mashina.kg/details/opel-omega-64fed0beef377619109345,09_11_2023
+Honda Jazz,2008 г.,$ 6 700,механика,черный,хэтчбек 5 дв.,1.3,бензин,руль слева,207 000 км,Бишкек,https://www.mashina.kg/details/honda-jazz-64fed07c22a18787675007,09_11_2023
+Toyota Camry (Japan),2003 г.,$ 8 200,автомат,серебристый,седан,2.4,бензин,руль справа,212 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-japan-64fed07582568378543543,09_11_2023
+Kia K7,2018 г.,$ 20 000,автомат,синий,седан,2.4,бензин,руль слева,132 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fed05371455589115701,09_11_2023
+Toyota Avensis,2008 г.,$ 9 000,механика,серый,универсал,2.2,дизель,руль слева,416 000 км,Бишкек,https://www.mashina.kg/details/toyota-avensis-64fed0405a3e9869250246,09_11_2023
+Kia K7,2018 г.,$ 15 500,автомат,серый,седан,3,газ,руль слева,100 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fed0155a82b796977186,09_11_2023
+Kia K7,2016 г.,$ 18 000,автомат,черный,седан,3.3,бензин,руль слева,113 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fecf4fed5ef744306521,09_11_2023
+Honda Stepwgn,2003 г.,$ 11 700,автомат,черный,минивэн,2.4,бензин,руль справа,209 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fecf1668811212724287,09_11_2023
+Honda Jazz,2006 г.,$ 6 400,вариатор,оранжевый,хэтчбек 5 дв.,1.5,бензин,руль слева,300 000 км,Бишкек,https://www.mashina.kg/details/honda-jazz-64fecf1369ce3659610741,09_11_2023
+Toyota Avensis,2003 г.,$ 7 800,автомат,черный,седан,1.8,бензин,руль слева,234 567 км,Бишкек,https://www.mashina.kg/details/toyota-avensis-64fecf08943b7027741818,09_11_2023
+Chevrolet Spark,2018 г.,$ 8 900,вариатор,черный,хэтчбек 5 дв.,1,бензин,руль слева,88 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-spark-64fece7516d1f998932302,09_11_2023
+Honda Fit,2005 г.,$ 6 800,вариатор,серебристый,хэтчбек 5 дв.,1.3,бензин,руль справа,302 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fecddad0318259099742,09_11_2023
+Toyota Camry,2005 г.,$ 10 000,автомат,зеленый,седан,2.4,бензин,руль слева,247 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fecd3c17128319073320,09_11_2023
+Nissan Patrol,2006 г.,$ 17 500,автомат,серый,внедорожник 5 дв.,3,дизель,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/nissan-patrol-64fdcc0db0c90682078496,09_11_2023
+Toyota Camry,2011 г.,$ 14 799,автомат,черный,седан,2.5,бензин,руль слева,117 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd693d6cf81814464938,09_11_2023
+Toyota Camry,2011 г.,$ 13 500,автомат,серебристый,седан,2.5,бензин,руль слева,188 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fecd031c3db355894060,09_11_2023
+Subaru Forester,2018 г.,$ 18 500,вариатор,белый,внедорожник 5 дв.,2.5,бензин,руль слева,74 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fd7a812d5c9616533381,09_11_2023
+Honda CR-V,2006 г.,$ 13 800,автомат,серый,внедорожник 5 дв.,2,бензин,руль справа,186 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fecc80ea623754532573,09_11_2023
+Honda Fit,2003 г.,$ 5 094,вариатор,синий,хэтчбек 5 дв.,1.3,бензин,руль справа,280 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fecc1a0e502486558352,09_11_2023
+Toyota RAV4,2006 г.,$ 14 500,автомат,белый,внедорожник 5 дв.,2.4,бензин,руль слева,120 000 км,Бишкек,https://www.mashina.kg/details/toyota-rav4-64fe050c014fa655272728,09_11_2023
+Subaru Forester,2005 г.,$ 8 800,автомат,серый,универсал,2,бензин,руль справа,240 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fe04b238241501387820,09_11_2023
+Ravon Nexia R3,2017 г.,$ 9 990,автомат,серебристый,седан,1.5,бензин,руль слева,52 000 км,Бишкек,https://www.mashina.kg/details/ravon-nexia-r3-64fd0559c6e2a161197138,09_11_2023
+Hyundai Getz,2005 г.,$ 4 800,механика,золотистый,хэтчбек 5 дв.,1.1,бензин,руль слева,191 000 км,Бишкек,https://www.mashina.kg/details/hyundai-getz-64fe01d92095d682802571,09_11_2023
+Nissan Primera,2005 г.,$ 4 747,механика,голубой,универсал,1.8,бензин,руль слева,222 000 км,Бишкек,https://www.mashina.kg/details/nissan-primera-64fdfff1aeb59753275752,09_11_2023
+Hyundai Sonata,2018 г.,$ 13 500,автомат,белый,седан,2,газ,руль слева,245 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdea19cfb77353834173,09_11_2023
+Toyota Prius,2007 г.,$ 9 700,автомат,белый,хэтчбек 5 дв.,1.5,гибрид,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fdfe6f11f92268572762,09_11_2023
+ВАЗ (Lada) Priora,2007 г.,$ 3 226,механика,серебристый,седан,1.6,бензин,руль слева,109 000 км,Бишкек,https://www.mashina.kg/details/vaz-lada-priora-64fdfe1eacb8c912191457,09_11_2023
+Toyota Alphard,2006 г.,$ 14 500,автомат,белый,минивэн,3,бензин,руль справа,161 000 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fd9d6951172200828245,09_11_2023
+Hyundai Sonata,2018 г.,$ 11 200,автомат,серебристый,седан,2,газ,руль слева,100 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fdfb34235cf611980285,09_11_2023
+Kia K5 II Седан,2017 г.,$ 13 600,автомат,серебристый,седан,2,газ,руль слева,201 500 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fdfab9592e8201481880,09_11_2023
+Toyota Prius,2011 г.,$ 10 500,автомат,серый,хэтчбек 5 дв.,1.8,гибрид,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fdf9fd9b873507535579,09_11_2023
+Nissan 350Z,2003 г.,$ 16 000,автомат,красный,кабриолет,3.5,бензин,руль справа,99 000 км,Бишкек,https://www.mashina.kg/details/nissan-350z-64fdf7d755d44958962584,09_11_2023
+BMW 5 серии,2003 г.,$ 5 200,автомат,черный,седан,2.5,бензин,руль слева,180 000 км,Бишкек,https://www.mashina.kg/details/bmw-5-serii-64fd369d95061500078274,09_11_2023
+Kia Morning,2017 г.,$ 10 000,автомат,черный,хэтчбек 5 дв.,1,бензин,руль слева,67 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fdf681ec448054116326,09_11_2023
+Toyota Camry,2005 г.,$ 13 000,автомат,серебристый,седан,2.4,бензин,руль слева,238 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdf606ca7c7690785410,09_11_2023
+Mercedes-Benz G-класс,2003 г.,$ 16 900,автомат,черный,внедорожник 5 дв.,5,бензин,руль слева,379 000 км,Бишкек,https://www.mashina.kg/details/mercedes-benz-g-klass-64fdb946614bb245283842,09_11_2023
+Toyota Corolla,2018 г.,$ 11 500,вариатор,белый,седан,1.5,гибрид,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fdf4bd6f1ef386919882,09_11_2023
+Honda Accord,2006 г.,$ 8 500,автомат,белый,седан,2,бензин,руль слева,145 000 км,Бишкек,https://www.mashina.kg/details/honda-accord-64fdf2ba86cb8013502921,09_11_2023
+BMW 7 серии,2009 г.,$ 14 999,автомат,черный,седан,4.4,бензин,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/bmw-7-serii-64fdf1e99c3e9051826069,09_11_2023
+Toyota Camry,2017 г.,$ 19 900,автомат,черный,седан,2.5,бензин,руль слева,89 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd59820adc4828427697,09_11_2023
+Toyota Ipsum,2005 г.,$ 13 500,автомат,серебристый,компактвэн,2.4,бензин,руль справа,160 000 км,Бишкек,https://www.mashina.kg/details/toyota-ipsum-64feabd966663494641738,09_11_2023
+Honda Fit,2005 г.,$ 7 300,механика,жёлтый,хэтчбек 5 дв.,1.3,бензин,руль справа,137 000 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fdfa7bc61ce360913083,09_11_2023
+Kia Morning,2017 г.,$ 9 600,автомат,серый,хэтчбек 5 дв.,1,бензин,руль слева,78 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64feab8004595690349784,09_11_2023
+Toyota Ist,2004 г.,$ 6 792,автомат,серый,хэтчбек 5 дв.,1.5,бензин,руль слева,153 239 км,Бишкек,https://www.mashina.kg/details/toyota-ist-64feab32790c8219222852,09_11_2023
+Hyundai Matrix,2008 г.,$ 5 500,автомат,синий,компактвэн,1.6,бензин,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/hyundai-matrix-64feaa9abaab4640716516,09_11_2023
+Toyota Crown,2010 г.,$ 16 000,автомат,белый,седан,3,бензин,руль справа,75 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64feaa557541b612152716,09_11_2023
+Kia Morning,2017 г.,$ 10 900,автомат,белый,хэтчбек 5 дв.,1,бензин,руль слева,1 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fea96f9950f237119665,09_11_2023
+Toyota Alphard,2009 г.,$ 17 600,автомат,белый,минивэн,3.5,бензин,руль справа,175 000 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fea8dfe497e576172328,09_11_2023
+Toyota Camry,2004 г.,$ 12 500,автомат,серебристый,седан,3,бензин,руль слева,207 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd946f65699743271362,09_11_2023
+Toyota Crown,2010 г.,$ 13 400,автомат,белый,седан,3.5,бензин,руль слева,113 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fdab297a087906681089,09_11_2023
+Lexus ES,2003 г.,$ 9 622,автомат,белый,седан,3,бензин,руль слева,246 000 км,Бишкек,https://www.mashina.kg/details/lexus-es-64fea70311c50510176149,09_11_2023
+Toyota Corolla,2010 г.,$ 9 622,механика,серебристый,седан,1.4,бензин,руль слева,238 000 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fea6fec1cf6625721726,09_11_2023
+Honda Stream,2003 г.,$ 6 800,автомат,белый,компактвэн,1.7,бензин,руль справа,220 000 км,Бишкек,https://www.mashina.kg/details/honda-stream-64fd9482c67cd375002025,09_11_2023
+Honda M-NV,2022 г.,$ 20 000,,белый,внедорожник 5 дв.,автомат,электро,руль слева,2 000 км,Бишкек,https://www.mashina.kg/details/honda-m-nv-64fea6909e9e7467463794,09_11_2023
+Kia Optima,2016 г.,$ 14 900,автомат,черный,седан,2.4,бензин,руль слева,73 000 км,Бишкек,https://www.mashina.kg/details/kia-optima-64fd643532621089285760,09_11_2023
+Subaru Outback,2017 г.,$ 18 000,вариатор,серебристый,универсал,2.5,бензин,руль слева,99 580 км,Бишкек,https://www.mashina.kg/details/subaru-outback-64fd90725a294710196276,09_11_2023
+Toyota Estima,2003 г.,$ 14 500,автомат,серый,минивэн,3,бензин,руль справа,180 000 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64fe03587b1b1704729799,09_11_2023
+Toyota Estima,2011 г.,$ 16 000,автомат,белый,минивэн,3.5,бензин,руль справа,155 000 км,Бишкек,https://www.mashina.kg/details/toyota-estima-64fea456a7e3d227613724,09_11_2023
+Toyota Prius,2016 г.,$ 17 600,вариатор,черный,лифтбек,1.8,гибрид,руль слева,241 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fea4537bf3c355255438,09_11_2023
+Kia K5 II Седан,2018 г.,$ 13 700,автомат,серый,седан,2,газ,руль слева,178 000 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fecc140e144276058337,09_11_2023
+Toyota Prius,2015 г.,$ 13 376,автомат,синий,хэтчбек 5 дв.,1.8,гибрид,руль слева,78 000 км,Бишкек,https://www.mashina.kg/details/toyota-prius-64fda584116db379277976,09_11_2023
+Toyota RAV4,2009 г.,$ 14 500,автомат,белый,внедорожник 5 дв.,2.4,бензин,руль слева,140 000 км,Бишкек,https://www.mashina.kg/details/toyota-rav4-64fd9be95e36f040406934,09_11_2023
+Honda Stepwgn,2006 г.,$ 10 800,автомат,серебристый,минивэн,2,бензин,руль справа,185 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fd88feb0207763317599,09_11_2023
+Toyota Crown,2012 г.,$ 14 200,автомат,белый,седан,3.5,бензин,руль справа,180 000 км,Бишкек,https://www.mashina.kg/details/toyota-crown-64fd8e7b161e3423281544,09_11_2023
+Honda CR-V,2008 г.,$ 16 000,автомат,белый,внедорожник 5 дв.,2.4,бензин,руль слева,112 949 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fec72183c89773256467,09_11_2023
+Honda Stepwgn,2004 г.,$ 11 500,автомат,белый,минивэн,2.4,бензин,руль справа,169 000 км,Бишкек,https://www.mashina.kg/details/honda-stepwgn-64fec679c3f04071604436,09_11_2023
+Toyota Camry,2014 г.,$ 15 200,автомат,белый,седан,2.5,бензин,руль слева,148 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fcdcb04c8c0414702192,09_11_2023
+Toyota Previa,2004 г.,$ 9 800,автомат,золотистый,минивэн,2.4,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/toyota-previa-64fcded90cb15013874452,09_11_2023
+Toyota Camry,2015 г.,$ 15 800,автомат,коричневый,седан,2.5,бензин,руль слева,114 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd6d050092c085764442,09_11_2023
+Toyota Alphard,2006 г.,$ 16 400,автомат,белый,минивэн,3,бензин,руль справа,118 000 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fec5ea6a132837001392,09_11_2023
+Honda Jazz,2004 г.,$ 9 000,вариатор,серый,хэтчбек 5 дв.,1.5,бензин,руль слева,240 000 км,Бишкек,https://www.mashina.kg/details/honda-jazz-64fec23417147126167508,09_11_2023
+Ford Explorer,2003 г.,$ 8 500,автомат,черный,внедорожник 5 дв.,4,бензин,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/ford-explorer-64fd7b886d77b230836443,09_11_2023
+Lexus ES,2007 г.,$ 10 700,автомат,серебристый,седан,3.5,бензин,руль слева,210 000 км,Бишкек,https://www.mashina.kg/details/lexus-es-64fdc813ddbab959177285,09_11_2023
+Kia Optima,2017 г.,$ 16 900,автомат,белый,седан,2,бензин,руль слева,69 000 км,Бишкек,https://www.mashina.kg/details/kia-optima-64fdc2f2aeda1398927202,09_11_2023
+Honda CR-V,2005 г.,$ 12 700,автомат,серый,внедорожник 5 дв.,2.4,бензин,руль справа,72 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fec2827e4ad882092724,09_11_2023
+JAC S7,2023 г.,$ 18 500,робот,черный,внедорожник 5 дв.,1.5,бензин,руль слева,80 км,Бишкек,https://www.mashina.kg/details/jac-s7-64fec20c66406460155431,09_11_2023
+Lexus ES,2004 г.,$ 11 200,автомат,серебристый,седан,3.3,бензин,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/lexus-es-64fec1fdc8e74647300554,09_11_2023
+BMW X5,2008 г.,$ 15 500,автомат,белый,внедорожник 5 дв.,3,бензин,руль слева,294 000 км,Бишкек,https://www.mashina.kg/details/bmw-x5-64fec1e554f99215287791,09_11_2023
+Toyota Corolla,2003 г.,$ 6 800,автомат,серый,седан,1.6,бензин,руль слева,255 444 км,Бишкек,https://www.mashina.kg/details/toyota-corolla-64fec1e017c40999748976,09_11_2023
+Lexus RX,2004 г.,$ 14 000,автомат,черный,внедорожник 5 дв.,3.3,бензин,руль слева,250 000 км,Бишкек,https://www.mashina.kg/details/lexus-rx-64fdcbb124a34674633799,09_11_2023
+Honda CR-V,2006 г.,$ 12 400,автомат,серебристый,внедорожник 5 дв.,2.4,бензин,руль слева,162 000 км,Бишкек,https://www.mashina.kg/details/honda-cr-v-64fd34874cef5329254192,09_11_2023
+Toyota Alphard,2004 г.,$ 15 500,автомат,белый,минивэн,2.4,бензин,руль справа,24 400 км,Бишкек,https://www.mashina.kg/details/toyota-alphard-64fd6bb03a10a365208066,09_11_2023
+BMW X5,2007 г.,$ 14 000,автомат,серебристый,внедорожник 5 дв.,4.8,бензин,руль слева,390 000 км,Бишкек,https://www.mashina.kg/details/bmw-x5-64fdc85f2d027127330614,09_11_2023
+Honda Fit,2007 г.,$ 5 207,вариатор,серый,хэтчбек 5 дв.,1.3,бензин,руль справа,320 116 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fd9681f0c6b600861396,09_11_2023
+Hyundai Getz,2003 г.,$ 4 641,механика,серебристый,хэтчбек 5 дв.,1.3,бензин,руль слева,320 000 км,Бишкек,https://www.mashina.kg/details/hyundai-getz-64fe77163eeff250870245,09_11_2023
+Toyota Camry,2005 г.,$ 12 000,автомат,серый,седан,2.4,бензин,руль слева,200 000 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe74ddcf2a7873098837,09_11_2023
+Chevrolet Tracker,2019 г.,$ 14 800,автомат,черный,внедорожник 5 дв.,1.4,бензин,руль слева,130 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-tracker-64fe74d3c986f427060356,09_11_2023
+Kia K5 II Седан,2019 г.,$ 16 599,автомат,белый,седан,2,газ,руль слева,127 579 км,Бишкек,https://www.mashina.kg/details/kia-k5-64fda1f6d128a581410017,09_11_2023
+Kia K7,2018 г.,$ 16 000,автомат,серебристый,седан,3,газ,руль слева,301 000 км,Бишкек,https://www.mashina.kg/details/kia-k7-64fd376f9fb71116681475,09_11_2023
+Toyota Camry,2017 г.,$ 13 500,автомат,белый,седан,2.5,бензин,руль слева,177 500 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fd9f4ac7ab1506044173,09_11_2023
+Honda Fit,2019 г.,$ 13 500,вариатор,серебристый,хэтчбек 5 дв.,1.5,бензин,руль слева,41 400 км,Бишкек,https://www.mashina.kg/details/honda-fit-64fd9ce9317a9486074566,09_11_2023
+Subaru Forester,2003 г.,$ 7 200,автомат,черный,универсал,2,бензин,руль справа,283 000 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fe6e9f2a76c595198582,09_11_2023
+Toyota Camry,2013 г.,$ 13 800,автомат,черный,седан,2.5,бензин,руль слева,136 054 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fdb4126ea96662643639,09_11_2023
+Chevrolet Spark,2012 г.,$ 7 300,автомат,белый,хэтчбек 5 дв.,1,бензин,руль слева,65 000 км,Бишкек,https://www.mashina.kg/details/chevrolet-spark-64fd638e38168536565448,09_11_2023
+Toyota Camry,2004 г.,$ 12 900,автомат,серебристый,седан,2.4,бензин,руль слева,2 600 км,Бишкек,https://www.mashina.kg/details/toyota-camry-64fe512827eaf407289728,09_11_2023
+Subaru Forester,2018 г.,$ 17 500,вариатор,белый,внедорожник 5 дв.,2.5,бензин,руль слева,42 500 км,Бишкек,https://www.mashina.kg/details/subaru-forester-64fe44628a4cc225227813,09_11_2023
+Kia Morning,2018 г.,$ 9 000,автомат,серый,хэтчбек 5 дв.,1,бензин,руль слева,900 000 км,Бишкек,https://www.mashina.kg/details/kia-morning-64fe3bd1e4cbf394255895,09_11_2023
+Subaru Legacy,2004 г.,$ 6 800,автомат,серый,седан,3,бензин,руль справа,189 800 км,Бишкек,https://www.mashina.kg/details/subaru-legacy-64fe3a9148d80422625216,09_11_2023
+Hyundai Sonata,2019 г.,$ 13 500,автомат,белый,седан,2,бензин,руль слева,149 000 км,Бишкек,https://www.mashina.kg/details/hyundai-sonata-64fe371bebb68266235428,09_11_2023
